@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31409.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MoveDataFromDB2ToSQL", "MoveDataFromDB2ToSQL\MoveDataFromDB2ToSQL.dtproj", "{9D5E8D5B-F31A-4363-9595-8A2CEA1123B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5E8D5B-F31A-4363-9595-8A2CEA1123B5}.Development|Default.ActiveCfg = Development
+		{9D5E8D5B-F31A-4363-9595-8A2CEA1123B5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3181A1A0-AB10-40AB-8ADD-E46AB998E65F}
+	EndGlobalSection
+EndGlobal
