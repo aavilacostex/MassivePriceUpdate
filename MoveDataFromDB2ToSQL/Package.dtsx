@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="86"
-  DTS:VersionGUID="{11E28B28-E03B-45E9-A6D6-FF86F6DCA5C8}">
+  DTS:VersionBuild="137"
+  DTS:VersionGUID="{1A170E6F-39D2-4B2F-AA71-0F913E2E70F6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZ/d5G2Ob10WY8O8v06QtpAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAD98qSutlUQRSWLQVU2gM4IAAAAAASAAACgAAAAEAAAAJb7y2WeGE1VBrdkyqUIv18QAAAAPMi/GcHkNmhp0rHOwR79OxQAAADe0Ds8sn4aq1QZwYcNgpQd0R4WSw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABBxs2C7pCuxzPfv3ydbPRfAAAAAASAAACgAAAAEAAAAL+1y8j4laaxOypzMp1f1NsQAAAAm7xvlDft3bA4SVR6Co9x3RQAAAAMYd27nZTBovsq+8UIKH6tonuOkA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZ/d5G2Ob10WY8O8v06QtpAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABOCawXapxKjKtFMfeoN2K8AAAAAASAAACgAAAAEAAAAA+3NJTjMq+xb7kg2ddPqXUQAAAAAhSDBlMlC2Xrbjo12c9cahQAAAAIWt59mICb6Z+XKgKV3QU++A3KMA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACNt/7KgYi0miOK/ALwTOotAAAAAASAAACgAAAAEAAAABhNLUtq8zQ7VkIhTpuux0QQAAAAUeDZnNzwAoq8cZBvDOnP9hQAAAAnkH0gdBvhRjpjtuHrNu77Zh8xCg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZ/d5G2Ob10WY8O8v06QtpAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABSIo4fkMSEhwFOSMu9wxlxAAAAAASAAACgAAAAEAAAAGaRlgL6ns+6QGHHSZ1PG48QAAAAB7BzKlbfU2EH0kAZwSOSHhQAAAD1TCTGQ4IkAyx189UgyqotOwttUg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAVpywDj5pI0macKdjubB6oAAAAAASAAACgAAAAEAAAAAMFUuVubQqHg414+lSpqycQAAAAnNh8EFqkzSPw5NNriEpe7BQAAADWPRJ8iL3XQyXwrsHl3iIroAygiw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -74,7 +74,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZ/d5G2Ob10WY8O8v06QtpAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAA7O2yH8WHhjPDRWVPtzOuFAAAAAASAAACgAAAAEAAAAH1uKv0RJeQS+n9t7MkcNL8QAAAAL76uFVprkTOng1H6aenISxQAAADmTmoZBUrU3X9URHDpkv7rKLSX+w</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAB95kezPbOCn0AsTa57tYMsAAAAAASAAACgAAAAEAAAANyGddSyW96hwivUmyo5AQwQAAAA3VQrFk4LJc3S216NJkSgpBQAAADqLUr25dw411ycTG2+Eu1l1og/jQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -91,7 +91,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZ/d5G2Ob10WY8O8v06QtpAAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABFD7QrBbT1O0gmMEWvmruTAAAAAASAAACgAAAAEAAAAAKsDv9UHHcR9C4OvoOsEL0QAAAAJ2Oh6oeDRgyz7GwKZTIckhQAAAAH+djmX0kRkiyFL7aGClwX6DnyaA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAKORM8UOrR+nsd6xuUFgDJAAAAAASAAACgAAAAEAAAAMLlmKr8EWBfEp+/q5acSUUQAAAAVipz9LDnvRQRd/C/BBeIgRQAAAA7YgQG42192pmm+NMgpEZQ1eO8Fw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -104,7 +104,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="0"
           DTS:ConnectRetryInterval="0"
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\\fsvr01\User Folders\aavila\Desktop\work-excel\ExcelGeneral\MassivePriceUpdateGeneratedForLoadCSV.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\\fsvr01\User Folders\aavila\Desktop\work-excel\excelhere\excelnew.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -276,6 +276,15 @@
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
+      DTS:DTSID="{BEC883E1-AB2D-4155-85EE-D42D4411A5A9}"
+      DTS:IncludeInDebugDump="6789"
+      DTS:Namespace="User"
+      DTS:ObjectName="RoundDec">
+      <DTS:VariableValue
+        DTS:DataType="14">1</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
       DTS:DTSID="{6D044D17-DFAB-456C-8945-EFB88F36BF65}"
       DTS:IncludeInDebugDump="6789"
       DTS:Namespace="User"
@@ -307,6 +316,7 @@
       DTS:refId="Package\Calculate from Percent Value save MASSPRCBCK"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
+      DTS:Disabled="True"
       DTS:DTSID="{D8830A83-23A9-4A6F-B0AA-41B238E17EBA}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -682,7 +692,9 @@
                   description="Specifies the SQL statement used by the component to extract data."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT        *
+FROM            qs36f.massprcupd
+WHERE        (procdate = CURRENT_DATE)</property>
                 <property
                   dataType="System.Int32"
                   description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
@@ -701,7 +713,7 @@
                   dataType="System.Int32"
                   description="Specify the mode to retrieve external column information"
                   name="AccessMode"
-                  typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">0</property>
+                  typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">2</property>
                 <property
                   dataType="System.String"
                   name="UserComponentTypeName">Microsoft.DataReaderSourceAdapter</property>
@@ -1033,6 +1045,7 @@
       DTS:refId="Package\Create Backup Documents"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
+      DTS:Disabled="True"
       DTS:DTSID="{E3D0C4C3-602C-48C1-B067-D09AAA515398}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -1043,6 +1056,7 @@
           DTS:refId="Package\Create Backup Documents\CreateCsvFromExcel"
           DTS:CreationName="Microsoft.ScriptTask"
           DTS:Description="Script Task"
+          DTS:Disabled="True"
           DTS:DTSID="{40229019-8311-4424-b626-bdc332fabefb}"
           DTS:ExecutableType="Microsoft.ScriptTask"
           DTS:LocaleID="-1"
@@ -1058,14 +1072,35 @@
               ReadOnlyVariables="User::ExcelPathToProcess"
               ReadWriteVariables="User::CsvPathToSave,User::rsCsvToExcel">
               <ProjectItem
-                Name="Properties\Settings.settings"
-                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+                Name="Properties\AssemblyInfo.cs"
+                Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_d9aac4d5f5f740cb940091a09f6391d7")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_d9aac4d5f5f740cb940091a09f6391d7")]
+[assembly: AssemblyCopyright("Copyright @  2021")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.resx"
                 Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -1186,34 +1221,14 @@
   </resheader>
 </root>]]></ProjectItem>
               <ProjectItem
-                Name="Properties\Settings.Designer.cs"
-                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_d9aac4d5f5f740cb940091a09f6391d7.Properties.Settings.get_Default():ST_d9aac4d5f5f740cb940091a09f6391d7.Properties.Sett" +
-    "ings")]
-
-namespace ST_d9aac4d5f5f740cb940091a09f6391d7.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
+                Name="Properties\Settings.settings"
+                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
               <ProjectItem
                 Name="ScriptMain.cs"
                 Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -1453,54 +1468,165 @@ namespace ST_d9aac4d5f5f740cb940091a09f6391d7
                 Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
 <c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
   <msb:PropertyGroup>
-    <msb:CodeName>ST_d9aac4d5f5f740cb940091a09f6391d7</msb:CodeName>
+    <msb:CodeName>ST_9ebf60786277425f82ab3ebbf0df591f</msb:CodeName>
     <msb:Language>msBuild</msb:Language>
-    <msb:DisplayName>ST_d9aac4d5f5f740cb940091a09f6391d7</msb:DisplayName>
-    <msb:ProjectId>{7CEB9630-715B-4E71-87D8-965C43F8A660}</msb:ProjectId>
+    <msb:DisplayName>ST_9ebf60786277425f82ab3ebbf0df591f</msb:DisplayName>
+    <msb:ProjectId>{CF7DD42A-D48C-4EBC-BA0A-A3B8C2247156}</msb:ProjectId>
   </msb:PropertyGroup>
   <msb:ItemGroup>
     <msb:Project Include="ST_9ebf60786277425f82ab3ebbf0df591f.csproj" />
+    <msb:File Include="Properties\Resources.resx" />
     <msb:File Include="Properties\Settings.settings" />
     <msb:File Include="Properties\AssemblyInfo.cs" />
-    <msb:File Include="Properties\Resources.resx" />
     <msb:File Include="Properties\Resources.Designer.cs" />
     <msb:File Include="Properties\Settings.Designer.cs" />
     <msb:File Include="ScriptMain.cs" />
   </msb:ItemGroup>
 </c:Project>]]></ProjectItem>
               <ProjectItem
-                Name="Properties\AssemblyInfo.cs"
-                Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
+                Name="Properties\Settings.Designer.cs"
+                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
 
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_d9aac4d5f5f740cb940091a09f6391d7")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_d9aac4d5f5f740cb940091a09f6391d7")]
-[assembly: AssemblyCopyright("Copyright @  2021")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_d9aac4d5f5f740cb940091a09f6391d7.Properties.Settings.get_Default():ST_d9aac4d5f5f740cb940091a09f6391d7.Properties.Sett" +
+    "ings")]
 
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+namespace ST_d9aac4d5f5f740cb940091a09f6391d7.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
               <ProjectItem
                 Name="ST_9ebf60786277425f82ab3ebbf0df591f.csproj"
-                Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?><Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"><PropertyGroup><ProjectTypeGuids>{30D016F9-3734-4E33-A861-5E7D899E18F3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids><Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration><Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform><ProductVersion>8.0.30703</ProductVersion><SchemaVersion>2.0</SchemaVersion><ProjectGuid>{26C3FC46-539D-4C01-8A95-E1AFB4649551}</ProjectGuid><OutputType>Library</OutputType><AppDesignerFolder>Properties</AppDesignerFolder><RootNamespace>ST_d9aac4d5f5f740cb940091a09f6391d7</RootNamespace><AssemblyName>ST_9ebf60786277425f82ab3ebbf0df591f</AssemblyName><TargetFrameworkVersion>v4.7</TargetFrameworkVersion><FileAlignment>512</FileAlignment><ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch><TargetFrameworkProfile></TargetFrameworkProfile></PropertyGroup><PropertyGroup Condition=" '$(Configuration)' == 'Debug' "><DebugSymbols>true</DebugSymbols><DebugType>full</DebugType><Optimize>false</Optimize><OutputPath>.\bin\Debug\</OutputPath><EnableUnmanagedDebugging>false</EnableUnmanagedDebugging><DefineConstants>DEBUG;TRACE</DefineConstants><ErrorReport>prompt</ErrorReport><WarningLevel>4</WarningLevel></PropertyGroup><PropertyGroup Condition=" '$(Configuration)' == 'Release' "><DebugSymbols>false</DebugSymbols><Optimize>true</Optimize><OutputPath>.\bin\Release\</OutputPath><EnableUnmanagedDebugging>false</EnableUnmanagedDebugging><DefineConstants>TRACE</DefineConstants><ErrorReport>prompt</ErrorReport><WarningLevel>4</WarningLevel></PropertyGroup><ItemGroup><Reference Include="System" /><Reference Include="System.Data" /><Reference Include="System.Windows.Forms" /><Reference Include="System.Xml" /><Reference Include="Microsoft.SqlServer.ManagedDTS, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" /><Reference Include="Microsoft.SqlServer.ScriptTask, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" /></ItemGroup><ItemGroup><AppDesigner Include="Properties\" /><Compile Include="Properties\AssemblyInfo.cs"><SubType>Code</SubType></Compile><EmbeddedResource Include="Properties\Resources.resx"><Generator>ResXFileCodeGenerator</Generator><LastGenOutput>Resources.Designer.cs</LastGenOutput></EmbeddedResource><Compile Include="Properties\Resources.Designer.cs"><AutoGen>True</AutoGen><DependentUpon>Resources.resx</DependentUpon></Compile><None Include="Properties\Settings.settings"><Generator>SettingsSingleFileGenerator</Generator><LastGenOutput>Settings.Designer.cs</LastGenOutput></None><Compile Include="Properties\Settings.Designer.cs"><AutoGen>True</AutoGen><DependentUpon>Settings.settings</DependentUpon></Compile><Compile Include="ScriptMain.cs"><SubType>Code</SubType></Compile></ItemGroup><ItemGroup><COMReference Include="Microsoft.Office.Core"><Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid><VersionMajor>2</VersionMajor><VersionMinor>8</VersionMinor><Lcid>0</Lcid><WrapperTool>primary</WrapperTool><Isolated>False</Isolated><EmbedInteropTypes>True</EmbedInteropTypes></COMReference><COMReference Include="Microsoft.Office.Interop.Excel"><Guid>{00020813-0000-0000-C000-000000000046}</Guid><VersionMajor>1</VersionMajor><VersionMinor>9</VersionMinor><Lcid>0</Lcid><WrapperTool>primary</WrapperTool><Isolated>False</Isolated><EmbedInteropTypes>True</EmbedInteropTypes></COMReference><COMReference Include="VBIDE"><Guid>{0002E157-0000-0000-C000-000000000046}</Guid><VersionMajor>5</VersionMajor><VersionMinor>3</VersionMinor><Lcid>0</Lcid><WrapperTool>primary</WrapperTool><Isolated>False</Isolated><EmbedInteropTypes>True</EmbedInteropTypes></COMReference></ItemGroup><!-- Include the build rules for a C# project.--><Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" /><ProjectExtensions><VisualStudio><FlavorProperties GUID="{30D016F9-3734-4E33-A861-5E7D899E18F3}"><ProjectProperties HostName="VSTAHostName" HostPackage="{B3A685AA-7EAF-4BC6-9940-57959FA5AC07}" ApplicationType="usd" Language="cs" TemplatesPath="" /><Host Name="ScriptTask" /><ProjectClient><HostIdentifier>SSIS_ST150</HostIdentifier></ProjectClient></FlavorProperties></VisualStudio></ProjectExtensions></Project>]]></ProjectItem>
+                Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectTypeGuids>{30D016F9-3734-4E33-A861-5E7D899E18F3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26C3FC46-539D-4C01-8A95-E1AFB4649551}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ST_d9aac4d5f5f740cb940091a09f6391d7</RootNamespace>
+    <AssemblyName>ST_9ebf60786277425f82ab3ebbf0df591f</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
+    <TargetFrameworkProfile></TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptMain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <!-- Include the build rules for a C# project.-->
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{30D016F9-3734-4E33-A861-5E7D899E18F3}">
+        <ProjectProperties HostName="VSTAHostName" HostPackage="{B3A685AA-7EAF-4BC6-9940-57959FA5AC07}" ApplicationType="usd" Language="cs" TemplatesPath="" />
+        <Host Name="ScriptTask" />
+        <ProjectClient>
+          <HostIdentifier>SSIS_ST150</HostIdentifier>
+        </ProjectClient>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.Designer.cs"
                 Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -1570,16 +1696,16 @@ namespace ST_d9aac4d5f5f740cb940091a09f6391d7.Properties {
     }
 }]]></ProjectItem>
               <BinaryItem
-                Name="ST_d9aac4d5f5f740cb940091a09f6391d7.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                Name="ST_9ebf60786277425f82ab3ebbf0df591f.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
-ZGUuDQ0KJAAAAAAAAABQRQAATAEDAA2F22AAAAAAAAAAAOAAIiALATAAACwAAAAIAAAAAAAARksA
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDADoxLmEAAAAAAAAAAOAAIiALATAAACwAAAAIAAAAAAAAaksA
 AAAgAAAAYAAAAAAAEAAgAAAAAgAABAAAAAAAAAAGAAAAAAAAAACgAAAAAgAAAAAAAAMAYIUAABAA
-ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAAPRKAABPAAAAAGAAAHgEAAAAAAAAAAAAAAAAAAAA
+ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAABhLAABPAAAAAGAAAHgEAAAAAAAAAAAAAAAAAAAA
 AAAAAIAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAIAAACAAAAAAAAAAAAAAACCAAAEgAAAAAAAAAAAAAAC50ZXh0AAAATCsAAAAgAAAALAAAAAIA
+AAAAIAAACAAAAAAAAAAAAAAACCAAAEgAAAAAAAAAAAAAAC50ZXh0AAAAcCsAAAAgAAAALAAAAAIA
 AAAAAAAAAAAAAAAAACAAAGAucnNyYwAAAHgEAAAAYAAAAAYAAAAuAAAAAAAAAAAAAAAAAABAAABA
-LnJlbG9jAAAMAAAAAIAAAAACAAAANAAAAAAAAAAAAAAAAAAAQAAAQgAAAAAAAAAAAAAAAAAAAAAo
-SwAAAAAAAEgAAAACAAUA7CMAAFAmAAABAAAAAAAAADxKAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+LnJlbG9jAAAMAAAAAIAAAAACAAAANAAAAAAAAAAAAAAAAAAAQAAAQgAAAAAAAAAAAAAAAAAAAABM
+SwAAAAAAAEgAAAACAAUA7CMAAHQmAAABAAAAAAAAAGBKAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAABswEABZAgAAAQAAEQIoGQAACm8aAAAKcgEAAHBvGwAACm8c
 AAAKdCoAAAEKAigZAAAKbxoAAApyJwAAcG8bAAAKbxwAAAp0KgAAAQtyQwAAcHMdAAAKKB4AAAoo
 HwAACnQHAAACDAhvEwAABgZ+IAAACn4gAAAKfiAAAAp+IAAACn4gAAAKfiAAAAp+IAAACn4gAAAK
@@ -1597,47 +1723,47 @@ ERQKFgsDGRkWby4AAAoK3jQMCG8vAAAKdTUAAAEsGAIIKAIAAAYsDwNvMAAACigmAAAKFgsrAhcL
 3goGLAYGbzEAAArcByoAAAEcAAAAAAQADBAAKhEAAAECAAQANjoACgAAAAAeAigyAAAKKh4CKDMA
 AAoqrn4BAAAELR5y3wAAcNADAAACKDQAAApvNQAACnM2AAAKgAEAAAR+AQAABCoafgIAAAQqHgKA
 AgAABCoafgMAAAQqHgIoNwAACioucwoAAAaAAwAABCoAAEJTSkIBAAEAAAAAAAwAAAB2NC4wLjMw
-MzE5AAAAAAUAbAAAABwOAAAjfgAAiA4AACgNAAAjU3RyaW5ncwAAAACwGwAAVAEAACNVUwAEHQAA
-EAAAACNHVUlEAAAAFB0AADwJAAAjQmxvYgAAAAAAAAACAAABVz+iAQkDAAAA+gEzABYAAAEAAAA5
+MzE5AAAAAAUAbAAAABwOAAAjfgAAiA4AAEwNAAAjU3RyaW5ncwAAAADUGwAAVAEAACNVUwAoHQAA
+EAAAACNHVUlEAAAAOB0AADwJAAAjQmxvYgAAAAAAAAACAAABVz+iAQkDAAAA+gEzABYAAAEAAAA5
 AAAAFQAAAEIAAAAjAAAAKgAAAAgAAAA3AAAAPQAAAGAAAAAlAAAAAwAAAAYAAAAJAAAADAAAAAEA
-AAAEAAAAAQAAAAEAAAAAAAgIAQAAAAAABgDtBScKBgCNBicKBgDbBPUJDwCbCgAABgAIBdwIBgCh
-BdwIBgCCBdwIBgB0BtwIBgAeBtwIBgA3BtwIBgA2BdwIBgBRBd4GCgBSBnkHCgDvA3kHBgC9CR8L
-BgAOA0sIBgAVCUsIBgA8CZMBBgA3CJMBBgBSCEsIBgC+BPUJBgDDC0sIBgCLCUcKBgBFCccIDgBO
-BPIHDgDvBPIHDgALBLIIBgB6BCcKBgAfBQgKBgCVBAgKBgDVBQgKBgCkA0sIBgCjBAgKBgANBggK
-BgC+BdwIBgACAx8LBgBqBAgKBgBqBQgKCgDgB3kHEgDpCoQDEgD5AoQDBgD4BksIBgCIAksIBgCo
-BwgKBgDXCUsIBgAWDZMBBgBgCZMBBgBfA5MBBgCGCEsIBgDFApMBBgAyC5MBBgCpA5MBBgDuCJMB
-BgBRCZMBBgA7CJMBBgA7A0sIBgD+DNwIAAAAAGMBAAAAAAEAAQABABAAkwgKATkAAQABAAAAEABO
-CrYKWQABAAUAAAEQAPwKtgptAAMACQChEAAAigvBBwAABAAMAKEQAAByDMEHAAAEAAwAoRAAAKYI
-wQcAAAQADAChEAAAcQvBBwAABAAMAKEQAABNDMEHAAAEAAwAoRAAAE0LwQcAAAQADAChEAAAUQfB
-BwAABAAQAKEQAAB7C8EHAAAEABAAoRAAAF0MwQcAAAQAEAChEAAAFQvBBwAABAAQAKEQAAD9C8EH
-AAAEABIAAQEAALYLwQdRAAQAEgABAQAAzgLBB1EAPAASAKEQAAClCMEHAABAABIAoRAAACoHwQcA
-AEAAGQChEAAA/AvBBwAAQAAfAAMBAABjCwAAUQBAACQAEQB6CLQCEQDTA7gCEQC1ArwCBgbsAcAC
-VoByCMMCVoDmAcMCVoD9AcMCVoCnAcMCVoCbC8MCVoBhAMMCVoB/AMMCVoCtAMMCVoB9AcMCVoBo
-AMMCVoCMDMMCVoCkAMMCVoDGAMMCVoD0AMMCVoAuAcMCVoDcAMMCVoAHB8MCVoBmCMMCVoBuCcMC
-VoCwB8MCVoCDAcMCVoBDBMMCVoDUDMMCVoAGAsMCVoCyAcMCVoClCcMCVoCoC8MCVoA1AMMCVoA+
-AMMCVoCKAcMCVoDdAcMCVoCVAMMCVoC0AMMCVoCbAMMCVoChAcMCVoCcDMMCVoBEAMMCVoCPAMMC
-VoCGAMMCVoDGDMMCVoAwCMMCVoDFBsMCVoDRC8MCVoBXAMMCVoAYB8MCVoBhAsMCVoBDAsMCVoBF
-AcMCVoAxBMMCVoBaAcMCVoBXCMMCVoBRAcMCVoDiC8MCVoBCB8MCVoAgDMMCBgbsAcACVoDSBscC
-VoDuAscCVoB/AscCBgbsAcACVoA9C8sCVoCzA8sCUCAAAAAAhgCZCAYAAQDsIgAAAACBADYCzwIB
-ABQjAAAAAIYA4wPVAgIAhCMAAAAAhhjhCQYAAwCMIwAAAACDGOEJBgADAJQjAAAAAJMIhwnbAgMA
-wCMAAAAAkwi7A+ACAwDHIwAAAACTCMcD5QIDAM8jAAAAAJYIFAzrAgQA1iMAAAAAhhjhCQYABADe
-IwAAAACRGOcJ8AIEAAAAAAADAAYY6AAGAAQAAAAAAAMQxg2CDPQCBAAAAAAAAwAGGLoABgAEAAAA
-AAADEMYFyQn4AgQAAAAAAAMABhhKAAYABQAAAAAAAxDGBY4I/QIFAAAAAAADAAYYzwAGABUAAAAA
-AAMQxg0RCxEDFQAAAAAAAwAGGBsABgAWAAAAAAADEMYNBwzGABYAAAAAAAMABhg3AQYAFwAAAAAA
+AAAEAAAAAQAAAAEAAAAAACwIAQAAAAAABgDtBUsKBgCNBksKBgDbBBkKDwC/CgAABgAIBQAJBgCh
+BQAJBgCCBQAJBgB0BgAJBgAeBgAJBgA3BgAJBgA2BQAJBgBRBQIHCgBSBp0HCgDvA50HBgDhCUML
+BgAOA28IBgA5CW8IBgBgCZMBBgBbCJMBBgB2CG8IBgC+BBkKBgDnC28IBgCvCWsKBgBpCesIDgBO
+BBYIDgDvBBYIDgALBNYIBgB6BEsKBgAfBSwKBgCVBCwKBgDVBSwKBgCkA28IBgCjBCwKBgANBiwK
+BgC+BQAJBgACA0MLBgBqBCwKBgBqBSwKCgAECJ0HEgANC4QDEgD5AoQDBgAcB28IBgCIAm8IBgDM
+BywKBgD7CW8IBgA6DZMBBgCECZMBBgBfA5MBBgCqCG8IBgDFApMBBgBWC5MBBgCpA5MBBgASCZMB
+BgB1CZMBBgBfCJMBBgA7A28IBgAiDQAJAAAAAGMBAAAAAAEAAQABABAAtwgKATkAAQABAAAAEABy
+CtoKWQABAAUAAAEQACAL2gptAAMACQChEAAArgvlBwAABAAMAKEQAACWDOUHAAAEAAwAoRAAAMoI
+5QcAAAQADAChEAAAlQvlBwAABAAMAKEQAABxDOUHAAAEAAwAoRAAAHEL5QcAAAQADAChEAAAdQfl
+BwAABAAQAKEQAACfC+UHAAAEABAAoRAAAIEM5QcAAAQAEAChEAAAOQvlBwAABAAQAKEQAAAhDOUH
+AAAEABIAAQEAANoL5QdRAAQAEgABAQAAzgLlB1EAPAASAKEQAADJCOUHAABAABIAoRAAAE4H5QcA
+AEAAGQChEAAAIAzlBwAAQAAfAAMBAACHCwAAUQBAACQAEQCeCLQCEQDTA7gCEQC1ArwCBgbsAcAC
+VoCWCMMCVoDmAcMCVoD9AcMCVoCnAcMCVoC/C8MCVoBhAMMCVoB/AMMCVoCtAMMCVoB9AcMCVoBo
+AMMCVoCwDMMCVoCkAMMCVoDGAMMCVoD0AMMCVoAuAcMCVoDcAMMCVoArB8MCVoCKCMMCVoCSCcMC
+VoDUB8MCVoCDAcMCVoBDBMMCVoD4DMMCVoAGAsMCVoCyAcMCVoDJCcMCVoDMC8MCVoA1AMMCVoA+
+AMMCVoCKAcMCVoDdAcMCVoCVAMMCVoC0AMMCVoCbAMMCVoChAcMCVoDADMMCVoBEAMMCVoCPAMMC
+VoCGAMMCVoDqDMMCVoBUCMMCVoDFBsMCVoD1C8MCVoBXAMMCVoA8B8MCVoBhAsMCVoBDAsMCVoBF
+AcMCVoAxBMMCVoBaAcMCVoB7CMMCVoBRAcMCVoAGDMMCVoBmB8MCVoBEDMMCBgbsAcACVoDSBscC
+VoDuAscCVoB/AscCBgbsAcACVoBhC8sCVoCzA8sCUCAAAAAAhgC9CAYAAQDsIgAAAACBADYCzwIB
+ABQjAAAAAIYA4wPVAgIAhCMAAAAAhhgFCgYAAwCMIwAAAACDGAUKBgADAJQjAAAAAJMIqwnbAgMA
+wCMAAAAAkwi7A+ACAwDHIwAAAACTCMcD5QIDAM8jAAAAAJYIOAzrAgQA1iMAAAAAhhgFCgYABADe
+IwAAAACRGAsK8AIEAAAAAAADAAYY6AAGAAQAAAAAAAMQxg2mDPQCBAAAAAAAAwAGGLoABgAEAAAA
+AAADEMYF7Qn4AgQAAAAAAAMABhhKAAYABQAAAAAAAxDGBbII/QIFAAAAAAADAAYYzwAGABUAAAAA
+AAMQxg01CxEDFQAAAAAAAwAGGBsABgAWAAAAAAADEMYNKwzGABYAAAAAAAMABhg3AQYAFwAAAAAA
 AxDGDSMDnQAXAAAAAAADEMYNLwMWAxcAAAAAAAMABhgBAAYAGAAAAAAAAxDGBSMEGwMYAAAAAAAD
-AAYYcQAGABsAAAAAAAMQxg1UCyIDGwAAAAAAAwAGGA4ABgAcAAAAAAADEMYF7gknAxwAAAAAAAMA
+AAYYcQAGABsAAAAAAAMQxg14CyIDGwAAAAAAAwAGGA4ABgAcAAAAAAADEMYFEgonAxwAAAAAAAMA
 BhgoAAYAKAAAAAAAAxDGDWkDxgAoAAAAAAADEMYNcgMQACkAAAAAAAMABhj9AAYAKgAAAAAAAxDG
-BcoLkQAqAAAAAQAfCQAAAQBkAwAAAQC/BgAgAAAAAAAgAAAAAAEgAQB7AxEgAgAFCxEgAwAHDREg
-BAC8CxEgBQCVAhEgBgCNAhEgBwAcAhEgCACeCBEgCQCbCREgCgAaAxEgCwDzDBEgDACzCREgDQDq
-DBEgDgCiBxEgDwAQAgAgAAAAAAAgAAAAAAEAAQCdAREgAQCqChEgAgB7AxEgAwA0BwAgAAAAABEg
-AQB7AxEgAgC4CxEgAwCVAhEgBACNAhEgBQAiAhEgBgB6CREQBwDWAhEgCAApCREgCQDqDBEgCgDh
-AhEgCwCsDBEgDACiBwAgAAAAAAEgAQCdAREgAQCeAgcASAAHABgACgCRAAsATAALADQADgCRAA8A
-UAAPACQACQDhCQEAEQDhCQYAGQDhCQoAKQDhCRAAMQDhCRAAOQDhCRAAQQDhCRAASQDhCRAAUQDh
-CRAAWQDhCRAAYQDhCRAAaQDhCQYAqQDhCQYA0QDhCRUA4QDhCQYA6QDhCRsA8QDhCRAA+QDhCQYA
-CQHhCSAA+QDhCSoAEQHhCTAAGQHhCRAAKQHhCQEAMQHhCQEAcQBFC00AOQHlClMAQQFCCFkASQGr
-BmAAWQHhCRAAYQFsAWQAaQGmAm0AAQH/BnQAcQGUC3cAcQEQDXwAcQHzCoMAUQEgDYkAkQDhCRAA
-gQFjBIwASQG1BpEAOQEyDAEAeQBBDGAAUQG8C5YAeQC9DJ0AgQApBAYAYQENCaUAkQCOCLMAiQD6
-CMEAsQFpA8YAuQEjBAYAcQDhCQYAsQDhCQYAAQFNA8oAAQH6DNMAuQDhCdkA2QDhCQYACAAUAPMA
+Be4LkQAqAAAAAQBDCQAAAQBkAwAAAQC/BgAgAAAAAAAgAAAAAAEgAQB7AxEgAgApCxEgAwArDREg
+BADgCxEgBQCVAhEgBgCNAhEgBwAcAhEgCADCCBEgCQC/CREgCgAaAxEgCwAXDREgDADXCREgDQAO
+DREgDgDGBxEgDwAQAgAgAAAAAAAgAAAAAAEAAQCdAREgAQDOChEgAgB7AxEgAwBYBwAgAAAAABEg
+AQB7AxEgAgDcCxEgAwCVAhEgBACNAhEgBQAiAhEgBgCeCREQBwDWAhEgCABNCREgCQAODREgCgDh
+AhEgCwDQDBEgDADGBwAgAAAAAAEgAQCdAREgAQCeAgcASAAHABgACgCRAAsATAALADQADgCRAA8A
+UAAPACQACQAFCgEAEQAFCgYAGQAFCgoAKQAFChAAMQAFChAAOQAFChAAQQAFChAASQAFChAAUQAF
+ChAAWQAFChAAYQAFChAAaQAFCgYAqQAFCgYA0QAFChUA4QAFCgYA6QAFChsA8QAFChAA+QAFCgYA
+CQEFCiAA+QAFCioAEQEFCjAAGQEFChAAKQEFCgEAMQEFCgEAcQBpC00AOQEJC1MAQQFmCFkASQGr
+BmAAWQEFChAAYQFsAWQAaQGmAm0AAQEjB3QAcQG4C3cAcQE0DXwAcQEXC4MAUQFEDYkAkQAFChAA
+gQFjBIwASQG1BpEAOQFWDAEAeQBlDGAAUQHgC5YAeQDhDJ0AgQApBAYAYQExCaUAkQCyCLMAiQAe
+CcEAsQFpA8YAuQEjBAYAcQAFCgYAsQAFCgYAAQFNA8oAAQEeDdMAuQAFCtkA2QAFCgYACAAUAPMA
 CAAYAPgACAAcAP0ACAAgAAIBCAAkAAcBCAAoAAwBCAAsABEBCAAwABYBCAA0ABsBCAA4ACABCAA8
 ACUBCABAACoBCABEAC8BCABIADQBCABMADQBCABQADkBCABUAD4BCABYAEMBCABcAEgBCABgAE0B
 CABkAFIBCABoAFcBCABsAFwBCABwAGEBCAB0AGYBCAB4AGsBCAB8AHABCACAAHUBCACEAHoBCACI
@@ -1657,11 +1783,11 @@ AEsE4ALDAEsE4AK7AFQEAAPDAEsEAAO7AFQEQAPDAF0EQAO7AGYEgAO7AG8EwAO7AHgEwAPDAIEE
 AAS7AIoEIAS7AIoEYATDAJMEYAS7AJwECQABAgsArgINALACDwCyAhEAsgITALICFQCyAhcAsgIZ
 ALICGwCyAh0AsgIfALICIQCyAiMAsgIlALICJwCyAikAsgIrAK4CLQCwAjEAsgIzALICNQCyAjcA
 rgI5ALICOwCyAj0AsgI/ALICQQCyAkMAsgJHALICSQCyAksAsgJNALICTwCyAlEAsAJTALACVQCy
-AjcAoQCrAAMAAQAEAAMACgAEABIABQATAAgAFAAJAAAAiwk4AwAA2wM9AwAAKgxCAwAAhgxHAwAA
-FQtLAwAAFwxQAwAAMwNUAwAAWAtYAwAAdgNQAwIABgADAAIABwAFAAEACAAFAAIACQAHAAIADQAJ
-AAIAEwALAAIAFQANAAIAFwAPAAEAGAAPAAIAHAARAAIAIAATAAEAIQATAASAAAABAAAAqh4mdQAA
-AAAAAAoBAAAEAAAAAAAAAAAAAADhAPQBAAAAAA8AAAAAAAAAAAAAAOoAWgcAAAAABAAAAAAAAAAA
-AAAA4QBLCAAAAAAPAAAAAAAAAAAAAADqAL4BAAAAAAAAAAABAAAAWAoAABUAAgAAAABfVnRibEdh
+AjcAoQCrAAMAAQAEAAMACgAEABIABQATAAgAFAAJAAAArwk4AwAA2wM9AwAATgxCAwAAqgxHAwAA
+OQtLAwAAOwxQAwAAMwNUAwAAfAtYAwAAdgNQAwIABgADAAIABwAFAAEACAAFAAIACQAHAAIADQAJ
+AAIAEwALAAIAFQANAAIAFwAPAAEAGAAPAAIAHAARAAIAIAATAAEAIQATAASAAAABAAAA6R79QwAA
+AAAAAN4GAAAEAAAAAAAAAAAAAADhAPQBAAAAAA8AAAAAAAAAAAAAAOoAfgcAAAAABAAAAAAAAAAA
+AAAA4QBvCAAAAAAPAAAAAAAAAAAAAADqAL4BAAAAAAAAAAABAAAAfAoAABUAAgAAAABfVnRibEdh
 cDFfMjAAX1Z0YmxHYXAzXzQwAF9WdGJsR2FwMl82MABfVnRibEdhcDFfMTEAeGxXSjJXRDEAeGxX
 SzEAeGxXUTEAX1Z0YmxHYXAxXzEyAHhsRXhjZWwxMgB4bERCRjIAeGxFeGNlbDIAX1Z0YmxHYXAy
 XzEwMwB4bERCRjMAeGxXSjNGSjMAeGxXSjMAeGxXSzMAeGxXSzNGTTMAeGxFeGNlbDMAeGxEQkY0
@@ -1692,118 +1818,118 @@ dGUAVHlwZUlkZW50aWZpZXJBdHRyaWJ1dGUAQ29tcGlsYXRpb25SZWxheGF0aW9uc0F0dHJpYnV0
 ZQBDb0NsYXNzQXR0cmlidXRlAEFzc2VtYmx5UHJvZHVjdEF0dHJpYnV0ZQBBc3NlbWJseUNvcHly
 aWdodEF0dHJpYnV0ZQBTU0lTU2NyaXB0VGFza0VudHJ5UG9pbnRBdHRyaWJ1dGUAQXNzZW1ibHlD
 b21wYW55QXR0cmlidXRlAFJ1bnRpbWVDb21wYXRpYmlsaXR5QXR0cmlidXRlAGdldF9WYWx1ZQBz
-ZXRfVmFsdWUAdmFsdWUAeGxXZWJBcmNoaXZlAHhsRXhjbHVzaXZlAFN5c3RlbS5SdW50aW1lLlZl
-cnNpb25pbmcAU3RyaW5nAE1pc3NpbmcAeGxFeGNlbDRXb3JrYm9vawB4bE9wZW5YTUxXb3JrYm9v
-awBfV29ya2Jvb2sAUm91dGVXb3JrYm9vawB4bE9wZW5YTUxTdHJpY3RXb3JrYm9vawBNaWNyb3Nv
-ZnQuU3FsU2VydmVyLlNjcmlwdFRhc2sATWljcm9zb2Z0LlNxbFNlcnZlci5EdHMuVGFza3MuU2Ny
-aXB0VGFzawBMb2NhbABNYXJzaGFsAHhsV29ya2Jvb2tOb3JtYWwATWljcm9zb2Z0Lk9mZmljZS5J
-bnRlcm9wLkV4Y2VsAFNjcmlwdE9iamVjdE1vZGVsAFN5c3RlbS5Db21wb25lbnRNb2RlbABTVF9k
-OWFhYzRkNWY1Zjc0MGNiOTQwMDkxYTA5ZjYzOTFkNy5kbGwAeGxIdG1sAEZpbGVTdHJlYW0AZ2V0
-X0l0ZW0AU3lzdGVtAEVudW0AeGxPcGVuWE1MQWRkSW4AeGxJbnRsQWRkSW4AeGxBZGRJbgByZXNv
-dXJjZU1hbgBCb29sZWFuAE9wZW4AU2NyaXB0TWFpbgBPcmlnaW4AX0FwcGxpY2F0aW9uAFN5c3Rl
-bS5Db25maWd1cmF0aW9uAFN5c3RlbS5HbG9iYWxpemF0aW9uAFN5c3RlbS5SZWZsZWN0aW9uAElP
-RXhjZXB0aW9uAGdldF9Jbm5lckV4Y2VwdGlvbgBHZXRIUkZvckV4Y2VwdGlvbgBleGNlcHRpb24A
-Q29uZmxpY3RSZXNvbHV0aW9uAEZpbGVJbmZvAEN1bHR1cmVJbmZvAEZpbGVTeXN0ZW1JbmZvAERp
-cmVjdG9yeUluZm8AeGxJbnRsTWFjcm8AQ3JlYXRlQmFja3VwAGdldF9SZXNvdXJjZU1hbmFnZXIA
-RGVsaW1pdGVyAHhsVGV4dFByaW50ZXIAQ29udmVydGVyAElFbnVtZXJhdG9yAEdldEVudW1lcmF0
-b3IAQWN0aXZhdG9yAC5jdG9yAC5jY3RvcgBTYXZlQXMAU3lzdGVtLkRpYWdub3N0aWNzAFN5c3Rl
-bS5SdW50aW1lLkludGVyb3BTZXJ2aWNlcwBTeXN0ZW0uUnVudGltZS5Db21waWxlclNlcnZpY2Vz
-AFN5c3RlbS5SZXNvdXJjZXMAU1RfZDlhYWM0ZDVmNWY3NDBjYjk0MDA5MWEwOWY2MzkxZDcuUHJv
-cGVydGllcy5SZXNvdXJjZXMucmVzb3VyY2VzAERlYnVnZ2luZ01vZGVzAFNhdmVDaGFuZ2VzAFNU
-X2Q5YWFjNGQ1ZjVmNzQwY2I5NDAwOTFhMDlmNjM5MWQ3LlByb3BlcnRpZXMAZ2V0X1ZhcmlhYmxl
-cwBHZXRGaWxlcwBTZXR0aW5ncwBVcGRhdGVMaW5rcwBnZXRfV29ya2Jvb2tzAFN5c3RlbS5Db2xs
-ZWN0aW9ucwBGaWxlQWNjZXNzAFN1Y2Nlc3MAZ2V0X0R0cwBTaGVldHMAZ2V0X1dvcmtzaGVldHMA
-U2NyaXB0UmVzdWx0cwBEb2NFdmVudHMAV29ya2Jvb2tFdmVudHMAQXBwRXZlbnRzAEV4aXN0cwB4
-bENTVldpbmRvd3MAeGxUZXh0V2luZG93cwBYbEZpbGVGb3JtYXQAT2JqZWN0AFNlbGVjdAB4bFhN
-TFNwcmVhZHNoZWV0AHhsT3BlbkRvY3VtZW50U3ByZWFkc2hlZXQAX1dvcmtzaGVldABnZXRfX0Rl
-ZmF1bHQAZ2V0X0RlZmF1bHQAeGxXb3JrYm9va0RlZmF1bHQAc2V0X1Rhc2tSZXN1bHQAZ2V0X0N1
-cnJlbnQARG9jRXZlbnRzX0V2ZW50AFdvcmtib29rRXZlbnRzX0V2ZW50AEFwcEV2ZW50c19FdmVu
-dABnZXRfQ291bnQAeGxFeGNlbDJGYXJFYXN0AHhsV29ya3MyRmFyRWFzdABUZXh0VmlzdWFsTGF5
-b3V0AE1vdmVOZXh0AHhsVW5pY29kZVRleHQAeGxDdXJyZW50UGxhdGZvcm1UZXh0AEFkZFRvTXJ1
-AE5vdGlmeQBnZXRfQXNzZW1ibHkAUmVhZE9ubHkAQ3JlYXRlRGlyZWN0b3J5AEVtcHR5AAAAACVF
-AHgAYwBlAGwAUABhAHQAaABUAG8AUAByAG8AYwBlAHMAcwAAG0MAcwB2AFAAYQB0AGgAVABvAFMA
-YQB2AGUAAEkwADAAMAAyADQANQAwADAALQAwADAAMAAwAC0AMAAwADAAMAAtAEMAMAAwADAALQAw
-ADAAMAAwADAAMAAwADAAMAAwADQANgABJVUAcwBlAHIAOgA6AHIAcwBDAHMAdgBUAG8ARQB4AGMA
-ZQBsAAALZgBhAGwAcwBlAAAVewAwAH0AewAxAH0ALgBjAHMAdgAACXQAcgB1AGUAAHFTAFQAXwBk
-ADkAYQBhAGMANABkADUAZgA1AGYANwA0ADAAYwBiADkANAAwADAAOQAxAGEAMAA5AGYANgAzADkA
-MQBkADcALgBQAHIAbwBwAGUAcgB0AGkAZQBzAC4AUgBlAHMAbwB1AHIAYwBlAHMAAAAAAMYIFnkU
-dpBPqS9KD8BgbxkABCABAQgDIAABBSABARERBCABAQ4FIAEBEWUEIAEBBgkgAgESgIESgIEFIAIB
-Dg4GIAEBEoCBFQcMDg4SHBIsHQ4OHQ4IDhI9EjwSQQUgABKAnQUgABKAoQYgARKApRwDIAAcCAAB
-EoCBEYCtBgABHBKAgQIGHAQAAQIOBgABEoC9DgUAAR0ODgIGDgQAAQEOBCABARwGAAMODhwcAyAA
-AgMHAQgFAAEIEkUHBwMSTQISRQ0gAxJNEYDJEYDNEYDRBCAAEkUDIAAOCAABEoCBEYDhBSAAEoDl
-ByACAQ4SgOUIt3pcVhk04IkIiYRdzYCAzJEEEgAAAAQGAAAABBYAAAAEGAAAAAQXAAAABAcAAAAE
-CAAAAAQLAAAABAkAAAAEEAAAAAQbAAAABB0AAAAEIQAAAAQnAAAABCsAAAAEIwAAAAQaAAAABBkA
-AAAE0e///wQCAAAABBEAAAAEwu///wQTAAAABBUAAAAEJAAAAAQUAAAABA4AAAAEBQAAAAQfAAAA
-BB4AAAAEDwAAAAQmAAAABCAAAAAEBAAAAAQcAAAABCIAAAAEKAAAAAQpAAAABCoAAAAELAAAAAQt
-AAAABC4AAAAEMgAAAAQzAAAABDQAAAAENQAAAAQ2AAAABDcAAAAEOAAAAAQ8AAAABD0AAAAEAwAA
-AAQBAAAABAAAAACAqywAAIClU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzLkN1c3RvbU1h
-cnNoYWxlcnMuRW51bWVyYXRvclRvRW51bVZhcmlhbnRNYXJzaGFsZXIsIEN1c3RvbU1hcnNoYWxl
-cnMsIFZlcnNpb249Mi4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNm
-NWY3ZjExZDUwYTNhAAEcARMBGwMGEl0DBhJhAwYSEAIGCAMGEUADBhFEAwYRVAUgAQISRQUgAQIS
-SQQAABJdBAAAEmEFAAEBEmEEAAASEAMAAAEDIAAIBCAAEj0TIA8SLA4cHBwcHBwcHBwcHBwcHAQg
-ABI4BCABAQIGIAMBHBwcBCAAEigQIAwBHBwcHBwcEUQcHBwcHAQIABJdBAgAEmEECAASEAMIAAgE
-CAASOAMIAA4DCAACBAgAEigIAQAIAAAAAAAeAQABAFQCFldyYXBOb25FeGNlcHRpb25UaHJvd3MB
-CAEAAgAAAAAAKAEAI1NUX2Q5YWFjNGQ1ZjVmNzQwY2I5NDAwOTFhMDlmNjM5MWQ3AAAFAQAAAAAW
-AQARQ29weXJpZ2h0IEAgIDIwMjEAAEkBABouTkVURnJhbWV3b3JrLFZlcnNpb249djQuNwEAVA4U
-RnJhbWV3b3JrRGlzcGxheU5hbWUSLk5FVCBGcmFtZXdvcmsgNC43CAEAdgAAAAAACAEA/P///wAA
-CAEAgwcAAAAACAEADwAAAAAACAEAPAIAAAAACAEAAAAAAAAACAEALgIAAAAACAEAAwAAAAAACAEA
-FQEAAAAACAEA7gEAAAAACAEAhQcAAAAACAEADAAAAAAACAEAbgAAAAAACAEAAQAAAAAACAEA6wAA
-AAAABgEAAgAAACkBACQwMDAyNDQxMy0wMDAwLTAwMDAtQzAwMC0wMDAwMDAwMDAwNDYAAFYBAChN
-aWNyb3NvZnQuT2ZmaWNlLkludGVyb3AuRXhjZWwuQXBwRXZlbnRzKE1pY3Jvc29mdC5PZmZpY2Uu
-SW50ZXJvcC5FeGNlbC5BcHBFdmVudHMAAFgBACQwMDAyMDgxMy0wMDAwLTAwMDAtYzAwMC0wMDAw
-MDAwMDAwNDYuTWljcm9zb2Z0Lk9mZmljZS5JbnRlcm9wLkV4Y2VsLkFwcEV2ZW50c19FdmVudAAA
-KQEAJDAwMDIwOEQ1LTAwMDAtMDAwMC1DMDAwLTAwMDAwMDAwMDA0NgAAXwEAWlN5c3RlbS5PYmpl
-Y3QsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5
-VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQAAKQEAJDAwMDI0NDExLTAwMDAtMDAwMC1DMDAwLTAwMDAw
-MDAwMDA0NgAAVgEAKE1pY3Jvc29mdC5PZmZpY2UuSW50ZXJvcC5FeGNlbC5Eb2NFdmVudHMoTWlj
-cm9zb2Z0Lk9mZmljZS5JbnRlcm9wLkV4Y2VsLkRvY0V2ZW50cwAAWAEAJDAwMDIwODEzLTAwMDAt
-MDAwMC1jMDAwLTAwMDAwMDAwMDA0Ni5NaWNyb3NvZnQuT2ZmaWNlLkludGVyb3AuRXhjZWwuRG9j
-RXZlbnRzX0V2ZW50AAANAQAIX0RlZmF1bHQAACkBACQwMDAyMDhENy0wMDAwLTAwMDAtQzAwMC0w
-MDAwMDAwMDAwNDYAACkBACQwMDAyMDhEQS0wMDAwLTAwMDAtQzAwMC0wMDAwMDAwMDAwNDYAACkB
-ACQwMDAyNDQxMi0wMDAwLTAwMDAtQzAwMC0wMDAwMDAwMDAwNDYAAGABAC1NaWNyb3NvZnQuT2Zm
-aWNlLkludGVyb3AuRXhjZWwuV29ya2Jvb2tFdmVudHMtTWljcm9zb2Z0Lk9mZmljZS5JbnRlcm9w
-LkV4Y2VsLldvcmtib29rRXZlbnRzAABdAQAkMDAwMjA4MTMtMDAwMC0wMDAwLWMwMDAtMDAwMDAw
-MDAwMDQ2M01pY3Jvc29mdC5PZmZpY2UuSW50ZXJvcC5FeGNlbC5Xb3JrYm9va0V2ZW50c19FdmVu
-dAAAKQEAJDAwMDIwOERCLTAwMDAtMDAwMC1DMDAwLTAwMDAwMDAwMDA0NgAAKQEAJDAwMDIwOEQ4
-LTAwMDAtMDAwMC1DMDAwLTAwMDAwMDAwMDA0NgAAVQEAJDAwMDIwODEzLTAwMDAtMDAwMC1jMDAw
-LTAwMDAwMDAwMDA0NitNaWNyb3NvZnQuT2ZmaWNlLkludGVyb3AuRXhjZWwuWGxGaWxlRm9ybWF0
-AABbAQAkMDAwMjA4MTMtMDAwMC0wMDAwLWMwMDAtMDAwMDAwMDAwMDQ2MU1pY3Jvc29mdC5PZmZp
-Y2UuSW50ZXJvcC5FeGNlbC5YbFNhdmVBc0FjY2Vzc01vZGUAAAC0AAAAzsrvvgEAAACRAAAAbFN5
-c3RlbS5SZXNvdXJjZXMuUmVzb3VyY2VSZWFkZXIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAs
-IEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OSNTeXN0ZW0u
-UmVzb3VyY2VzLlJ1bnRpbWVSZXNvdXJjZVNldAIAAAAAAAAAAAAAAFBBRFBBRFC0AAAAHEsAAAAA
-AAAAAAAANksAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChLAAAAAAAAAAAAAAAAX0NvckRsbE1h
-aW4AbXNjb3JlZS5kbGwAAAAAAP8lACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ZXRfVmFsdWUAdmFsdWUAeGxXZWJBcmNoaXZlAHhsRXhjbHVzaXZlAFNUXzllYmY2MDc4NjI3NzQy
+NWY4MmFiM2ViYmYwZGY1OTFmAFN5c3RlbS5SdW50aW1lLlZlcnNpb25pbmcAU3RyaW5nAE1pc3Np
+bmcAeGxFeGNlbDRXb3JrYm9vawB4bE9wZW5YTUxXb3JrYm9vawBfV29ya2Jvb2sAUm91dGVXb3Jr
+Ym9vawB4bE9wZW5YTUxTdHJpY3RXb3JrYm9vawBNaWNyb3NvZnQuU3FsU2VydmVyLlNjcmlwdFRh
+c2sATWljcm9zb2Z0LlNxbFNlcnZlci5EdHMuVGFza3MuU2NyaXB0VGFzawBMb2NhbABNYXJzaGFs
+AHhsV29ya2Jvb2tOb3JtYWwATWljcm9zb2Z0Lk9mZmljZS5JbnRlcm9wLkV4Y2VsAFNjcmlwdE9i
+amVjdE1vZGVsAFN5c3RlbS5Db21wb25lbnRNb2RlbABTVF85ZWJmNjA3ODYyNzc0MjVmODJhYjNl
+YmJmMGRmNTkxZi5kbGwAeGxIdG1sAEZpbGVTdHJlYW0AZ2V0X0l0ZW0AU3lzdGVtAEVudW0AeGxP
+cGVuWE1MQWRkSW4AeGxJbnRsQWRkSW4AeGxBZGRJbgByZXNvdXJjZU1hbgBCb29sZWFuAE9wZW4A
+U2NyaXB0TWFpbgBPcmlnaW4AX0FwcGxpY2F0aW9uAFN5c3RlbS5Db25maWd1cmF0aW9uAFN5c3Rl
+bS5HbG9iYWxpemF0aW9uAFN5c3RlbS5SZWZsZWN0aW9uAElPRXhjZXB0aW9uAGdldF9Jbm5lckV4
+Y2VwdGlvbgBHZXRIUkZvckV4Y2VwdGlvbgBleGNlcHRpb24AQ29uZmxpY3RSZXNvbHV0aW9uAEZp
+bGVJbmZvAEN1bHR1cmVJbmZvAEZpbGVTeXN0ZW1JbmZvAERpcmVjdG9yeUluZm8AeGxJbnRsTWFj
+cm8AQ3JlYXRlQmFja3VwAGdldF9SZXNvdXJjZU1hbmFnZXIARGVsaW1pdGVyAHhsVGV4dFByaW50
+ZXIAQ29udmVydGVyAElFbnVtZXJhdG9yAEdldEVudW1lcmF0b3IAQWN0aXZhdG9yAC5jdG9yAC5j
+Y3RvcgBTYXZlQXMAU3lzdGVtLkRpYWdub3N0aWNzAFN5c3RlbS5SdW50aW1lLkludGVyb3BTZXJ2
+aWNlcwBTeXN0ZW0uUnVudGltZS5Db21waWxlclNlcnZpY2VzAFN5c3RlbS5SZXNvdXJjZXMAU1Rf
+ZDlhYWM0ZDVmNWY3NDBjYjk0MDA5MWEwOWY2MzkxZDcuUHJvcGVydGllcy5SZXNvdXJjZXMucmVz
+b3VyY2VzAERlYnVnZ2luZ01vZGVzAFNhdmVDaGFuZ2VzAFNUX2Q5YWFjNGQ1ZjVmNzQwY2I5NDAw
+OTFhMDlmNjM5MWQ3LlByb3BlcnRpZXMAZ2V0X1ZhcmlhYmxlcwBHZXRGaWxlcwBTZXR0aW5ncwBV
+cGRhdGVMaW5rcwBnZXRfV29ya2Jvb2tzAFN5c3RlbS5Db2xsZWN0aW9ucwBGaWxlQWNjZXNzAFN1
+Y2Nlc3MAZ2V0X0R0cwBTaGVldHMAZ2V0X1dvcmtzaGVldHMAU2NyaXB0UmVzdWx0cwBEb2NFdmVu
+dHMAV29ya2Jvb2tFdmVudHMAQXBwRXZlbnRzAEV4aXN0cwB4bENTVldpbmRvd3MAeGxUZXh0V2lu
+ZG93cwBYbEZpbGVGb3JtYXQAT2JqZWN0AFNlbGVjdAB4bFhNTFNwcmVhZHNoZWV0AHhsT3BlbkRv
+Y3VtZW50U3ByZWFkc2hlZXQAX1dvcmtzaGVldABnZXRfX0RlZmF1bHQAZ2V0X0RlZmF1bHQAeGxX
+b3JrYm9va0RlZmF1bHQAc2V0X1Rhc2tSZXN1bHQAZ2V0X0N1cnJlbnQARG9jRXZlbnRzX0V2ZW50
+AFdvcmtib29rRXZlbnRzX0V2ZW50AEFwcEV2ZW50c19FdmVudABnZXRfQ291bnQAeGxFeGNlbDJG
+YXJFYXN0AHhsV29ya3MyRmFyRWFzdABUZXh0VmlzdWFsTGF5b3V0AE1vdmVOZXh0AHhsVW5pY29k
+ZVRleHQAeGxDdXJyZW50UGxhdGZvcm1UZXh0AEFkZFRvTXJ1AE5vdGlmeQBnZXRfQXNzZW1ibHkA
+UmVhZE9ubHkAQ3JlYXRlRGlyZWN0b3J5AEVtcHR5AAAAACVFAHgAYwBlAGwAUABhAHQAaABUAG8A
+UAByAG8AYwBlAHMAcwAAG0MAcwB2AFAAYQB0AGgAVABvAFMAYQB2AGUAAEkwADAAMAAyADQANQAw
+ADAALQAwADAAMAAwAC0AMAAwADAAMAAtAEMAMAAwADAALQAwADAAMAAwADAAMAAwADAAMAAwADQA
+NgABJVUAcwBlAHIAOgA6AHIAcwBDAHMAdgBUAG8ARQB4AGMAZQBsAAALZgBhAGwAcwBlAAAVewAw
+AH0AewAxAH0ALgBjAHMAdgAACXQAcgB1AGUAAHFTAFQAXwBkADkAYQBhAGMANABkADUAZgA1AGYA
+NwA0ADAAYwBiADkANAAwADAAOQAxAGEAMAA5AGYANgAzADkAMQBkADcALgBQAHIAbwBwAGUAcgB0
+AGkAZQBzAC4AUgBlAHMAbwB1AHIAYwBlAHMAAAAAANltoF/X7rBFpJWsLav4QKgABCABAQgDIAAB
+BSABARERBCABAQ4FIAEBEWUEIAEBBgkgAgESgIESgIEFIAIBDg4GIAEBEoCBFQcMDg4SHBIsHQ4O
+HQ4IDhI9EjwSQQUgABKAnQUgABKAoQYgARKApRwDIAAcCAABEoCBEYCtBgABHBKAgQIGHAQAAQIO
+BgABEoC9DgUAAR0ODgIGDgQAAQEOBCABARwGAAMODhwcAyAAAgMHAQgFAAEIEkUHBwMSTQISRQ0g
+AxJNEYDJEYDNEYDRBCAAEkUDIAAOCAABEoCBEYDhBSAAEoDlByACAQ4SgOUIt3pcVhk04IkIiYRd
+zYCAzJEEEgAAAAQGAAAABBYAAAAEGAAAAAQXAAAABAcAAAAECAAAAAQLAAAABAkAAAAEEAAAAAQb
+AAAABB0AAAAEIQAAAAQnAAAABCsAAAAEIwAAAAQaAAAABBkAAAAE0e///wQCAAAABBEAAAAEwu//
+/wQTAAAABBUAAAAEJAAAAAQUAAAABA4AAAAEBQAAAAQfAAAABB4AAAAEDwAAAAQmAAAABCAAAAAE
+BAAAAAQcAAAABCIAAAAEKAAAAAQpAAAABCoAAAAELAAAAAQtAAAABC4AAAAEMgAAAAQzAAAABDQA
+AAAENQAAAAQ2AAAABDcAAAAEOAAAAAQ8AAAABD0AAAAEAwAAAAQBAAAABAAAAACAqywAAIClU3lz
+dGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzLkN1c3RvbU1hcnNoYWxlcnMuRW51bWVyYXRvclRv
+RW51bVZhcmlhbnRNYXJzaGFsZXIsIEN1c3RvbU1hcnNoYWxlcnMsIFZlcnNpb249Mi4wLjAuMCwg
+Q3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNmNWY3ZjExZDUwYTNhAAEcARMBGwMG
+El0DBhJhAwYSEAIGCAMGEUADBhFEAwYRVAUgAQISRQUgAQISSQQAABJdBAAAEmEFAAEBEmEEAAAS
+EAMAAAEDIAAIBCAAEj0TIA8SLA4cHBwcHBwcHBwcHBwcHAQgABI4BCABAQIGIAMBHBwcBCAAEigQ
+IAwBHBwcHBwcEUQcHBwcHAQIABJdBAgAEmEECAASEAMIAAgECAASOAMIAA4DCAACBAgAEigIAQAI
+AAAAAAAeAQABAFQCFldyYXBOb25FeGNlcHRpb25UaHJvd3MBCAEAAgAAAAAAKAEAI1NUX2Q5YWFj
+NGQ1ZjVmNzQwY2I5NDAwOTFhMDlmNjM5MWQ3AAAFAQAAAAAWAQARQ29weXJpZ2h0IEAgIDIwMjEA
+AEkBABouTkVURnJhbWV3b3JrLFZlcnNpb249djQuNwEAVA4URnJhbWV3b3JrRGlzcGxheU5hbWUS
+Lk5FVCBGcmFtZXdvcmsgNC43CAEAdgAAAAAACAEA/P///wAACAEAgwcAAAAACAEADwAAAAAACAEA
+PAIAAAAACAEAAAAAAAAACAEALgIAAAAACAEAAwAAAAAACAEAFQEAAAAACAEA7gEAAAAACAEAhQcA
+AAAACAEADAAAAAAACAEAbgAAAAAACAEAAQAAAAAACAEA6wAAAAAABgEAAgAAACkBACQwMDAyNDQx
+My0wMDAwLTAwMDAtQzAwMC0wMDAwMDAwMDAwNDYAAFYBAChNaWNyb3NvZnQuT2ZmaWNlLkludGVy
+b3AuRXhjZWwuQXBwRXZlbnRzKE1pY3Jvc29mdC5PZmZpY2UuSW50ZXJvcC5FeGNlbC5BcHBFdmVu
+dHMAAFgBACQwMDAyMDgxMy0wMDAwLTAwMDAtYzAwMC0wMDAwMDAwMDAwNDYuTWljcm9zb2Z0Lk9m
+ZmljZS5JbnRlcm9wLkV4Y2VsLkFwcEV2ZW50c19FdmVudAAAKQEAJDAwMDIwOEQ1LTAwMDAtMDAw
+MC1DMDAwLTAwMDAwMDAwMDA0NgAAXwEAWlN5c3RlbS5PYmplY3QsIG1zY29ybGliLCBWZXJzaW9u
+PTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4
+OQAAKQEAJDAwMDI0NDExLTAwMDAtMDAwMC1DMDAwLTAwMDAwMDAwMDA0NgAAVgEAKE1pY3Jvc29m
+dC5PZmZpY2UuSW50ZXJvcC5FeGNlbC5Eb2NFdmVudHMoTWljcm9zb2Z0Lk9mZmljZS5JbnRlcm9w
+LkV4Y2VsLkRvY0V2ZW50cwAAWAEAJDAwMDIwODEzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDA0
+Ni5NaWNyb3NvZnQuT2ZmaWNlLkludGVyb3AuRXhjZWwuRG9jRXZlbnRzX0V2ZW50AAANAQAIX0Rl
+ZmF1bHQAACkBACQwMDAyMDhENy0wMDAwLTAwMDAtQzAwMC0wMDAwMDAwMDAwNDYAACkBACQwMDAy
+MDhEQS0wMDAwLTAwMDAtQzAwMC0wMDAwMDAwMDAwNDYAACkBACQwMDAyNDQxMi0wMDAwLTAwMDAt
+QzAwMC0wMDAwMDAwMDAwNDYAAGABAC1NaWNyb3NvZnQuT2ZmaWNlLkludGVyb3AuRXhjZWwuV29y
+a2Jvb2tFdmVudHMtTWljcm9zb2Z0Lk9mZmljZS5JbnRlcm9wLkV4Y2VsLldvcmtib29rRXZlbnRz
+AABdAQAkMDAwMjA4MTMtMDAwMC0wMDAwLWMwMDAtMDAwMDAwMDAwMDQ2M01pY3Jvc29mdC5PZmZp
+Y2UuSW50ZXJvcC5FeGNlbC5Xb3JrYm9va0V2ZW50c19FdmVudAAAKQEAJDAwMDIwOERCLTAwMDAt
+MDAwMC1DMDAwLTAwMDAwMDAwMDA0NgAAKQEAJDAwMDIwOEQ4LTAwMDAtMDAwMC1DMDAwLTAwMDAw
+MDAwMDA0NgAAVQEAJDAwMDIwODEzLTAwMDAtMDAwMC1jMDAwLTAwMDAwMDAwMDA0NitNaWNyb3Nv
+ZnQuT2ZmaWNlLkludGVyb3AuRXhjZWwuWGxGaWxlRm9ybWF0AABbAQAkMDAwMjA4MTMtMDAwMC0w
+MDAwLWMwMDAtMDAwMDAwMDAwMDQ2MU1pY3Jvc29mdC5PZmZpY2UuSW50ZXJvcC5FeGNlbC5YbFNh
+dmVBc0FjY2Vzc01vZGUAAAC0AAAAzsrvvgEAAACRAAAAbFN5c3RlbS5SZXNvdXJjZXMuUmVzb3Vy
+Y2VSZWFkZXIsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVi
+bGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OSNTeXN0ZW0uUmVzb3VyY2VzLlJ1bnRpbWVSZXNv
+dXJjZVNldAIAAAAAAAAAAAAAAFBBRFBBRFC0AAAAQEsAAAAAAAAAAAAAWksAAAAgAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAExLAAAAAAAAAAAAAAAAX0NvckRsbE1haW4AbXNjb3JlZS5kbGwAAAAAAP8l
+ACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAGAAA
 gAAAAAAAAAAAAAAAAAAAAQABAAAAMAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAASAAAAFhgAAAaBAAA
 AAAAAAAAAAAaBDQAAABWAFMAXwBWAEUAUgBTAEkATwBOAF8ASQBOAEYATwAAAAAAvQTv/gAAAQAA
-AAEAJnWqHgAAAQAmdaoePwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAEQAAAABAFYAYQByAEYA
+AAEA/UPpHgAAAQD9Q+kePwAAAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAEQAAAABAFYAYQByAEYA
 aQBsAGUASQBuAGYAbwAAAAAAJAAEAAAAVAByAGEAbgBzAGwAYQB0AGkAbwBuAAAAAAAAALAEegMA
 AAEAUwB0AHIAaQBuAGcARgBpAGwAZQBJAG4AZgBvAAAAVgMAAAEAMAAwADAAMAAwADQAYgAwAAAA
 GgABAAEAQwBvAG0AbQBlAG4AdABzAAAAAAAAACIAAQABAEMAbwBtAHAAYQBuAHkATgBhAG0AZQAA
 AAAAAAAAAHAAJAABAEYAaQBsAGUARABlAHMAYwByAGkAcAB0AGkAbwBuAAAAAABTAFQAXwBkADkA
 YQBhAGMANABkADUAZgA1AGYANwA0ADAAYwBiADkANAAwADAAOQAxAGEAMAA5AGYANgAzADkAMQBk
-ADcAAAA+AA8AAQBGAGkAbABlAFYAZQByAHMAaQBvAG4AAAAAADEALgAwAC4ANwA4ADUAMAAuADIA
-OQA5ADkAMAAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUAAABTAFQAXwBkADkAYQBh
-AGMANABkADUAZgA1AGYANwA0ADAAYwBiADkANAAwADAAOQAxAGEAMAA5AGYANgAzADkAMQBkADcA
+ADcAAAA+AA8AAQBGAGkAbABlAFYAZQByAHMAaQBvAG4AAAAAADEALgAwAC4ANwA5ADEAMwAuADEA
+NwA0ADAANQAAAAAAcAAoAAEASQBuAHQAZQByAG4AYQBsAE4AYQBtAGUAAABTAFQAXwA5AGUAYgBm
+ADYAMAA3ADgANgAyADcANwA0ADIANQBmADgAMgBhAGIAMwBlAGIAYgBmADAAZABmADUAOQAxAGYA
 LgBkAGwAbAAAAEgAEgABAEwAZQBnAGEAbABDAG8AcAB5AHIAaQBnAGgAdAAAAEMAbwBwAHkAcgBp
 AGcAaAB0ACAAQAAgACAAMgAwADIAMQAAACoAAQABAEwAZQBnAGEAbABUAHIAYQBkAGUAbQBhAHIA
 awBzAAAAAAAAAAAAeAAoAAEATwByAGkAZwBpAG4AYQBsAEYAaQBsAGUAbgBhAG0AZQAAAFMAVABf
-AGQAOQBhAGEAYwA0AGQANQBmADUAZgA3ADQAMABjAGIAOQA0ADAAMAA5ADEAYQAwADkAZgA2ADMA
-OQAxAGQANwAuAGQAbABsAAAAaAAkAAEAUAByAG8AZAB1AGMAdABOAGEAbQBlAAAAAABTAFQAXwBk
+ADkAZQBiAGYANgAwADcAOAA2ADIANwA3ADQAMgA1AGYAOAAyAGEAYgAzAGUAYgBiAGYAMABkAGYA
+NQA5ADEAZgAuAGQAbABsAAAAaAAkAAEAUAByAG8AZAB1AGMAdABOAGEAbQBlAAAAAABTAFQAXwBk
 ADkAYQBhAGMANABkADUAZgA1AGYANwA0ADAAYwBiADkANAAwADAAOQAxAGEAMAA5AGYANgAzADkA
-MQBkADcAAABCAA8AAQBQAHIAbwBkAHUAYwB0AFYAZQByAHMAaQBvAG4AAAAxAC4AMAAuADcAOAA1
-ADAALgAyADkAOQA5ADAAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAgAFYAZQByAHMAaQBvAG4A
-AAAxAC4AMAAuADcAOAA1ADAALgAyADkAOQA5ADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+MQBkADcAAABCAA8AAQBQAHIAbwBkAHUAYwB0AFYAZQByAHMAaQBvAG4AAAAxAC4AMAAuADcAOQAx
+ADMALgAxADcANAAwADUAAAAAAEYADwABAEEAcwBzAGUAbQBiAGwAeQAgAFYAZQByAHMAaQBvAG4A
+AAAxAC4AMAAuADcAOQAxADMALgAxADcANAAwADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAMAAAASDsAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAMAAAAbDsAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1820,6 +1946,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           DTS:refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
+          DTS:Disabled="True"
           DTS:DTSID="{05DFA2C0-D26A-4DE5-A470-C75706221F39}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
@@ -1844,7 +1971,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                       description="Specifies the SQL statement used by the component to extract data."
                       expressionType="Notify"
                       name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT        *
+FROM            qs36f.massprcupd
+WHERE        (procdate = CURRENT_DATE)</property>
                     <property
                       dataType="System.Int32"
                       description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
@@ -1863,7 +1992,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                       dataType="System.Int32"
                       description="Specify the mode to retrieve external column information"
                       name="AccessMode"
-                      typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">0</property>
+                      typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">2</property>
                     <property
                       dataType="System.String"
                       name="UserComponentTypeName">Microsoft.DataReaderSourceAdapter</property>
@@ -2190,7 +2319,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                     <property
                       dataType="System.String"
                       description="Specifies the name of the database object used to open a rowset."
-                      name="OpenRowset">Excel_Destination$</property>
+                      name="OpenRowset">Sheet1$</property>
                     <property
                       dataType="System.String"
                       description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -2239,54 +2368,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                       name="Excel Destination Input">
                       <inputColumns>
                         <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[BCK_ID]"
-                          cachedDataType="i4"
-                          cachedName="BCK_ID"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[BCK_ID]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[BCK_ID]" />
-                        <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[RETPRCBEF]"
-                          cachedDataType="wstr"
-                          cachedLength="50"
-                          cachedName="RETPRCBEF"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RETPRCBEF]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[RETPRCBEF]" />
-                        <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[WHOPRCBEF]"
-                          cachedDataType="wstr"
-                          cachedLength="50"
-                          cachedName="WHOPRCBEF"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHOPRCBEF]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[WHOPRCBEF]" />
-                        <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[OTHPRCBEF]"
-                          cachedDataType="wstr"
-                          cachedLength="50"
-                          cachedName="OTHPRCBEF"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTHPRCBEF]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[OTHPRCBEF]" />
-                        <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[RETPRCAFT]"
-                          cachedDataType="wstr"
-                          cachedLength="50"
-                          cachedName="RETPRCAFT"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RETPRCAFT]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[RETPRCAFT]" />
-                        <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[WHOPRCAFT]"
-                          cachedDataType="wstr"
-                          cachedLength="50"
-                          cachedName="WHOPRCAFT"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHOPRCAFT]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[WHOPRCAFT]" />
-                        <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[OTHPRCAFT]"
-                          cachedDataType="wstr"
-                          cachedLength="50"
-                          cachedName="OTHPRCAFT"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTHPRCAFT]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[OTHPRCAFT]" />
-                        <inputColumn
                           refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[PROCDATE]"
                           cachedDataType="dbTimeStamp"
                           cachedName="PROCDATE"
@@ -2307,64 +2388,80 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                           externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[LOCAT]"
                           lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[LOCAT]" />
                         <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[PERCRET]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[RETPRCBEF]"
                           cachedDataType="wstr"
-                          cachedLength="10"
-                          cachedName="PERCRET"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[PERCRET]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[PERCRET]" />
+                          cachedLength="50"
+                          cachedName="RETPRCBEF"
+                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RET-PRICE-BEFORE]"
+                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[RETPRCBEF]" />
                         <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[PERCWHO]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[WHOPRCBEF]"
                           cachedDataType="wstr"
-                          cachedLength="10"
-                          cachedName="PERCWHO"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[PERCWHO]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[PERCWHO]" />
+                          cachedLength="50"
+                          cachedName="WHOPRCBEF"
+                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHO-PRICE-BEFORE]"
+                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[WHOPRCBEF]" />
                         <inputColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[PERCOTH]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[OTHPRCBEF]"
                           cachedDataType="wstr"
-                          cachedLength="10"
-                          cachedName="PERCOTH"
-                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[PERCOTH]"
-                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[PERCOTH]" />
+                          cachedLength="50"
+                          cachedName="OTHPRCBEF"
+                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTH-PRICE-BEFORE]"
+                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[OTHPRCBEF]" />
+                        <inputColumn
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[RETPRCAFT]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="RETPRCAFT"
+                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RET-PRICE-AFTER]"
+                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[RETPRCAFT]" />
+                        <inputColumn
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[WHOPRCAFT]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="WHOPRCAFT"
+                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHO-PRICE-AFTER]"
+                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[WHOPRCAFT]" />
+                        <inputColumn
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].Columns[OTHPRCAFT]"
+                          cachedDataType="wstr"
+                          cachedLength="50"
+                          cachedName="OTHPRCAFT"
+                          externalMetadataColumnId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTH-PRICE-AFTER]"
+                          lineageId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD.Outputs[ADO NET Source Output].Columns[OTHPRCAFT]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[BCK_ID]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RET-PRICE-BEFORE]"
                           dataType="wstr"
                           length="255"
-                          name="BCK_ID" />
+                          name="RET-PRICE-BEFORE" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RETPRCBEF]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHO-PRICE-BEFORE]"
                           dataType="wstr"
                           length="255"
-                          name="RETPRCBEF" />
+                          name="WHO-PRICE-BEFORE" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHOPRCBEF]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTH-PRICE-BEFORE]"
                           dataType="wstr"
                           length="255"
-                          name="WHOPRCBEF" />
+                          name="OTH-PRICE-BEFORE" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTHPRCBEF]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RET-PRICE-AFTER]"
                           dataType="wstr"
                           length="255"
-                          name="OTHPRCBEF" />
+                          name="RET-PRICE-AFTER" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[RETPRCAFT]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHO-PRICE-AFTER]"
                           dataType="wstr"
                           length="255"
-                          name="RETPRCAFT" />
+                          name="WHO-PRICE-AFTER" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[WHOPRCAFT]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTH-PRICE-AFTER]"
                           dataType="wstr"
                           length="255"
-                          name="WHOPRCAFT" />
-                        <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[OTHPRCAFT]"
-                          dataType="wstr"
-                          length="255"
-                          name="OTHPRCAFT" />
+                          name="OTH-PRICE-AFTER" />
                         <externalMetadataColumn
                           refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[PROCDATE]"
                           dataType="wstr"
@@ -2381,20 +2478,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                           length="255"
                           name="LOCAT" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[PERCRET]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[F10]"
                           dataType="wstr"
                           length="255"
-                          name="PERCRET" />
+                          name="F10" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[PERCWHO]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[F11]"
                           dataType="wstr"
                           length="255"
-                          name="PERCWHO" />
+                          name="F11" />
                         <externalMetadataColumn
-                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[PERCOTH]"
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[F12]"
                           dataType="wstr"
                           length="255"
-                          name="PERCOTH" />
+                          name="F12" />
+                        <externalMetadataColumn
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[F13]"
+                          dataType="wstr"
+                          length="255"
+                          name="F13" />
+                        <externalMetadataColumn
+                          refId="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination.Inputs[Excel Destination Input].ExternalColumns[F14]"
+                          dataType="wstr"
+                          length="255"
+                          name="F14" />
                       </externalMetadataColumns>
                     </input>
                   </inputs>
@@ -2451,6 +2558,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
       DTS:refId="Package\Initial Save from DVINVA to MASSPRCUPD"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
+      DTS:Disabled="True"
       DTS:DTSID="{0E77B23C-43A0-4660-AFA7-7179DF2D62B3}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -2475,11 +2583,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                   description="Specifies the SQL statement used by the component to extract data."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT        dvretl, dvwhol, dvothe, 0 rtaft, 0 whaft, 0 otaft, dvpart, dvlocn, CURRENT DATE - 11 days dtdate
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT        dvretl, dvwhol, dvothe, 0 rtaft, 0 whaft, 0 otaft, dvpart, dvlocn, CURRENT DATE dtdate
 FROM            qs36f.dvinva
 WHERE        (DVRETL &lt;&gt; 0 OR
                          DVWHOL &lt;&gt; 0 OR
-                         DVOTHE &lt;&gt; 0) AND DVLOCN NOT IN ('6', '16')</property>
+                         DVOTHE &lt;&gt; 0) AND DVLOCN NOT IN ('06', '16')</property>
                 <property
                   dataType="System.Int32"
                   description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
@@ -2949,6 +3057,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
       DTS:refId="Package\Prepare processing table"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
+      DTS:Disabled="True"
       DTS:DTSID="{377d71ea-27c9-4649-a32e-5d6a3d4a8641}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -2959,6 +3068,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           DTS:refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
+          DTS:Disabled="True"
           DTS:DTSID="{dec84fde-b98f-4797-8280-29df039cbc0c}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
@@ -2983,7 +3093,9 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                       description="Specifies the SQL statement used by the component to extract data."
                       expressionType="Notify"
                       name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT * FROM QS36F.MASSPRCBCK FETCH FIRST 20000 ROWS ONLY</property>
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT        *
+FROM            qs36f.massprcbck
+WHERE        (procdate = CURRENT_DATE)</property>
                     <property
                       dataType="System.Int32"
                       description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
@@ -3002,7 +3114,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                       dataType="System.Int32"
                       description="Specify the mode to retrieve external column information"
                       name="AccessMode"
-                      typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">0</property>
+                      typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">2</property>
                     <property
                       dataType="System.String"
                       name="UserComponentTypeName">Microsoft.DataReaderSourceAdapter</property>
@@ -3405,30 +3517,6 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                           externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[LOCAT]"
                           lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCBCK.Outputs[ADO NET Source Output].Columns[LOCAT]" />
                         <inputColumn
-                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].Columns[RETPRCAFT1]"
-                          cachedDataType="numeric"
-                          cachedName="RETPRCAFT1"
-                          cachedPrecision="11"
-                          cachedScale="4"
-                          externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[RETPRCAFT]"
-                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[RETPRCAFT1]" />
-                        <inputColumn
-                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].Columns[WHOPRCAFT1]"
-                          cachedDataType="numeric"
-                          cachedName="WHOPRCAFT1"
-                          cachedPrecision="11"
-                          cachedScale="4"
-                          externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[WHOPRCAFT]"
-                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[WHOPRCAFT1]" />
-                        <inputColumn
-                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].Columns[OTHPRCAFT1]"
-                          cachedDataType="numeric"
-                          cachedName="OTHPRCAFT1"
-                          cachedPrecision="11"
-                          cachedScale="4"
-                          externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[OTHPRCAFT]"
-                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[OTHPRCAFT1]" />
-                        <inputColumn
                           refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].Columns[PERCRET2]"
                           cachedDataType="numeric"
                           cachedName="PERCRET2"
@@ -3452,6 +3540,30 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                           cachedScale="15"
                           externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[PERCOTH]"
                           lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXPERCENTAJE.Outputs[Derived Column Output].Columns[PERCOTH2]" />
+                        <inputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].Columns[RETPRCAFTRO2]"
+                          cachedDataType="numeric"
+                          cachedName="RETPRCAFTRO2"
+                          cachedPrecision="12"
+                          cachedScale="4"
+                          externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[RETPRCAFT]"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[RETPRCAFTRO2]" />
+                        <inputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].Columns[WHOPRCAFTRO2]"
+                          cachedDataType="numeric"
+                          cachedName="WHOPRCAFTRO2"
+                          cachedPrecision="12"
+                          cachedScale="4"
+                          externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[WHOPRCAFT]"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[WHOPRCAFTRO2]" />
+                        <inputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].Columns[OTHPRCAFTR2]"
+                          cachedDataType="numeric"
+                          cachedName="OTHPRCAFTR2"
+                          cachedPrecision="12"
+                          cachedScale="4"
+                          externalMetadataColumnId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input].ExternalColumns[OTHPRCAFT]"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[OTHPRCAFTR2]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -4092,6 +4204,152 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                     </output>
                   </outputs>
                 </component>
+                <component
+                  refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER"
+                  componentClassID="Microsoft.DerivedColumn"
+                  contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+                  description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
+                  name="ROUNDTWOVALUESAFER"
+                  usesDispositions="true">
+                  <inputs>
+                    <input
+                      refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Inputs[Derived Column Input]"
+                      description="Input to the Derived Column Transformation"
+                      name="Derived Column Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Inputs[Derived Column Input].Columns[RETPRCAFT1]"
+                          cachedDataType="numeric"
+                          cachedName="RETPRCAFT1"
+                          cachedPrecision="11"
+                          cachedScale="4"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[RETPRCAFT1]" />
+                        <inputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Inputs[Derived Column Input].Columns[WHOPRCAFT1]"
+                          cachedDataType="numeric"
+                          cachedName="WHOPRCAFT1"
+                          cachedPrecision="11"
+                          cachedScale="4"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[WHOPRCAFT1]" />
+                        <inputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Inputs[Derived Column Input].Columns[OTHPRCAFT1]"
+                          cachedDataType="numeric"
+                          cachedName="OTHPRCAFT1"
+                          cachedPrecision="11"
+                          cachedScale="4"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[OTHPRCAFT1]" />
+                      </inputColumns>
+                      <externalMetadataColumns />
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output]"
+                      description="Default Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      name="Derived Column Output"
+                      synchronousInputId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[RETPRCAFTRO2]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Computation"
+                          errorRowDisposition="FailComponent"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[RETPRCAFTRO2]"
+                          name="RETPRCAFTRO2"
+                          precision="12"
+                          scale="4"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Expression"
+                              name="Expression">(DT_NUMERIC,10,4)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[RETPRCAFT1]} &gt; (DT_NUMERIC,10,4)@[User::RoundDec] ? [ROUND]((((DT_NUMERIC,10,2)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[RETPRCAFT1]})),2) : (DT_NUMERIC,10,4)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[RETPRCAFT1]}</property>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Friendly Expression"
+                              expressionType="Notify"
+                              name="FriendlyExpression">(DT_NUMERIC,10,4)RETPRCAFT1 &gt; (DT_NUMERIC,10,4)@[User::RoundDec] ? ROUND((((DT_NUMERIC,10,2)RETPRCAFT1)),2) : (DT_NUMERIC,10,4)RETPRCAFT1</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[WHOPRCAFTRO2]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Computation"
+                          errorRowDisposition="FailComponent"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[WHOPRCAFTRO2]"
+                          name="WHOPRCAFTRO2"
+                          precision="12"
+                          scale="4"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Expression"
+                              name="Expression">(DT_NUMERIC,10,4)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[WHOPRCAFT1]} &gt; (DT_NUMERIC,10,4)@[User::RoundDec] ? [ROUND]((((DT_NUMERIC,10,2)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[WHOPRCAFT1]})),2) : (DT_NUMERIC,10,4)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[WHOPRCAFT1]}</property>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Friendly Expression"
+                              expressionType="Notify"
+                              name="FriendlyExpression">(DT_NUMERIC,10,4)WHOPRCAFT1 &gt; (DT_NUMERIC,10,4)@[User::RoundDec] ? ROUND((((DT_NUMERIC,10,2)WHOPRCAFT1)),2) : (DT_NUMERIC,10,4)WHOPRCAFT1</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[OTHPRCAFTR2]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Computation"
+                          errorRowDisposition="FailComponent"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output].Columns[OTHPRCAFTR2]"
+                          name="OTHPRCAFTR2"
+                          precision="12"
+                          scale="4"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Expression"
+                              name="Expression">(DT_NUMERIC,10,4)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[OTHPRCAFT1]} &gt; (DT_NUMERIC,10,4)@[User::RoundDec] ? [ROUND]((((DT_NUMERIC,10,2)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[OTHPRCAFT1]})),2) : (DT_NUMERIC,10,4)#{Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output].Columns[OTHPRCAFT1]}</property>
+                            <property
+                              containsID="true"
+                              dataType="System.String"
+                              description="Derived Column Friendly Expression"
+                              expressionType="Notify"
+                              name="FriendlyExpression">(DT_NUMERIC,10,4)OTHPRCAFT1 &gt; (DT_NUMERIC,10,4)@[User::RoundDec] ? ROUND((((DT_NUMERIC,10,2)OTHPRCAFT1)),2) : (DT_NUMERIC,10,4)OTHPRCAFT1</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                    <output
+                      refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Error Output]"
+                      description="Error Output of the Derived Column Transformation"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="Derived Column Error Output"
+                      synchronousInputId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Inputs[Derived Column Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
               </components>
               <paths>
                 <path
@@ -4111,9 +4369,14 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                   startId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE.Outputs[Derived Column Output]" />
                 <path
                   refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2).Paths[Derived Column Output2]"
-                  endId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input]"
+                  endId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Inputs[Derived Column Input]"
                   name="Derived Column Output"
                   startId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXPERCENTAJE.Outputs[Derived Column Output]" />
+                <path
+                  refId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2).Paths[Derived Column Output3]"
+                  endId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD.Inputs[ADO NET Destination Input]"
+                  name="Derived Column Output"
+                  startId="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER.Outputs[Derived Column Output]" />
               </paths>
             </pipeline>
           </DTS:ObjectData>
@@ -4122,6 +4385,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           DTS:refId="Package\Prepare processing table\Execute SQL Task"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
+          DTS:Disabled="True"
           DTS:DTSID="{e622a64c-aa95-43c2-b7ec-228f4271c2d9}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
@@ -4132,13 +4396,14 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
               SQLTask:Connection="{68754682-4C00-4F1E-B1E4-19669CAEA018}"
-              SQLTask:SqlStatementSource="delete from qs36f.massprcupd " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:SqlStatementSource="delete from qs36f.massprcupd where procdate = current_date" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
           DTS:refId="Package\Prepare processing table\Get Row Amount in MASSPRCBCK2"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
+          DTS:Disabled="True"
           DTS:DTSID="{bfe53ada-804a-4c1a-9fad-25a54ae6a99a}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
@@ -4163,7 +4428,9 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                       description="Specifies the SQL statement used by the component to extract data."
                       expressionType="Notify"
                       name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT        *
+FROM            qs36f.massprcbck
+WHERE        (procdate = CURRENT_DATE)</property>
                     <property
                       dataType="System.Int32"
                       description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
@@ -4182,7 +4449,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                       dataType="System.Int32"
                       description="Specify the mode to retrieve external column information"
                       name="AccessMode"
-                      typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">0</property>
+                      typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">2</property>
                     <property
                       dataType="System.String"
                       name="UserComponentTypeName">Microsoft.DataReaderSourceAdapter</property>
@@ -4560,6 +4827,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
       DTS:refId="Package\Prepare recordset for initial percent"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
+      DTS:Disabled="True"
       DTS:DTSID="{5358C997-A67D-4492-981F-6E835217D9F5}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -4570,7 +4838,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
-          SQLTask:SqlStatementSource="SELECT        retvalue, wholvalue, othvalue&#xA;FROM            qs36f.MASSPRCQUT&#xA;WHERE        procdate = CURRENT DATE - 11 days"
+          SQLTask:SqlStatementSource="SELECT        retvalue, wholvalue, othvalue&#xA;FROM            qs36f.MASSPRCQUT&#xA;WHERE        procdate = CURRENT DATE "
           SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
           <SQLTask:ResultBinding
             SQLTask:ResultName="0"
@@ -4588,6 +4856,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
       DTS:refId="Package\Sequence Container"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
+      DTS:Disabled="True"
       DTS:DTSID="{88c8670b-695d-417c-b128-5ce713c998a6}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -4598,6 +4867,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           DTS:refId="Package\Sequence Container\Insert into LOGDVINV AFT"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
+          DTS:Disabled="True"
           DTS:DTSID="{e067db51-6ef8-43ba-9447-6d3fad51e3ac}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
@@ -4608,13 +4878,14 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
               SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
-              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV (LGUSER,LGDATE,LGTIME,LGPROG,LGTRAN,LGWS,LVPART,LVLOCN,LVRETL,LVWHOL,LVOTHE) &#xA;(select 'SYSTEM',210619,235000,'ACTDVNR','Aft','MASSIVE', PARTN, LOCAT,RETPRCAFT,WHOPRCAFT,OTHPRCAFT from QS36F.MASSPRCUPD )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV (LGUSER,LGDATE,LGTIME,LGPROG,LGTRAN,LGWS,LVPART,LVLOCN,LVRETL,LVWHOL,LVOTHE) &#xA;(select 'SYSTEM',210904,235000,'ACTDVNR','Aft','MASSIVE', PARTN, LOCAT,RETPRCAFT,WHOPRCAFT,OTHPRCAFT from QS36F.MASSPRCUPD where procdate = current_date )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
           DTS:refId="Package\Sequence Container\Insert into LOGDVINV BEF"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
+          DTS:Disabled="True"
           DTS:DTSID="{c09d5e69-77a2-4eef-9d22-1d16e0bd4bf3}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
@@ -4625,7 +4896,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
               SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
-              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV (LGUSER,LGDATE,LGTIME,LGPROG,LGTRAN,LGWS,LVPART,LVLOCN,LVRETL,LVWHOL,LVOTHE) &#xA;(select 'SYSTEM',210619,235000,'ACTDVNR','Bef','MASSIVE', PARTN, LOCAT,RETPRCBEF,WHOPRCBEF,OTHPRCBEF from QS36F.MASSPRCUPD)" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV&#xA;                         (LGUSER, LGDATE, LGTIME, LGPROG, LGTRAN, LGWS, LVPART, LVLOCN, LVRETL, LVWHOL, LVOTHE) (SELECT        'SYSTEM', 210904, 235000, 'ACTDVNR', 'Bef', 'MASSIVE', PARTN, LOCAT, RETPRCBEF, WHOPRCBEF, &#xA;                                                                                                                                                                                                                                                                                   OTHPRCBEF&#xA;                                                                                                                                                                                                                                                         FROM            QS36F.MASSPRCUPD where procdate = current_date )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
       </DTS:Executables>
@@ -4644,6 +4915,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
       DTS:refId="Package\SQL BACKUP"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
+      DTS:Disabled="True"
       DTS:DTSID="{55F20FEE-82FA-49ED-924A-DEE4EEA67028}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -4669,7 +4941,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                     <inputColumn
                       refId="Package\SQL BACKUP\Data Conversion.Inputs[Data Conversion Input].Columns[PARTN]"
                       cachedDataType="wstr"
-                      cachedLength="50"
+                      cachedLength="19"
                       cachedName="PARTN"
                       lineageId="Package\SQL BACKUP\DB2 MASSPRCBCK.Outputs[ADO NET Source Output].Columns[PARTN]" />
                     <inputColumn
@@ -4942,7 +5214,9 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                   description="Specifies the SQL statement used by the component to extract data."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT        *
+FROM            qs36f.massprcbck
+WHERE        (procdate = CURRENT_DATE)</property>
                 <property
                   dataType="System.Int32"
                   description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
@@ -4961,7 +5235,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                   dataType="System.Int32"
                   description="Specify the mode to retrieve external column information"
                   name="AccessMode"
-                  typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">0</property>
+                  typeConverter="Microsoft.SqlServer.Dts.Pipeline.DataReaderSourceAdapter+EnumToStringConverter">2</property>
                 <property
                   dataType="System.String"
                   name="UserComponentTypeName">Microsoft.DataReaderSourceAdapter</property>
@@ -5063,7 +5337,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
                       externalMetadataColumnId="Package\SQL BACKUP\DB2 MASSPRCBCK.Outputs[ADO NET Source Output].ExternalColumns[PARTN]"
-                      length="50"
+                      length="19"
                       lineageId="Package\SQL BACKUP\DB2 MASSPRCBCK.Outputs[ADO NET Source Output].Columns[PARTN]"
                       name="PARTN"
                       truncationRowDisposition="FailComponent" />
@@ -5522,6 +5796,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
       DTS:refId="Package\Update process for all categories"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
+      DTS:Disabled="True"
       DTS:DTSID="{45A619F9-4F89-47C8-911B-2A1B7B16613E}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -5532,6 +5807,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           DTS:refId="Package\Update process for all categories\Update Prices in DVINVA"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
+          DTS:Disabled="True"
           DTS:DTSID="{38CE2E7F-BBFA-4E2E-88AA-AC585E1E4B8E}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
@@ -5542,7 +5818,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
               SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
-              SQLTask:SqlStatementSource="update qs36f.dvinva A1 set (A1.dvretl,A1.dvwhol,A1.dvothe) = (select RETPRCAFT,WHOPRCAFT,OTHPRCAFT  from QS36F.MASSPRCUPD A2&#xA;where  (A1.dvpart = A2.PARTN and A1.dvlocn = A2.locat))&#xA;where exists (select 1 from QS36F.MASSPRCUPD A3 where A1.dvpart = A3.PARTN and A1.dvlocn = A3.locat)" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:SqlStatementSource="UPDATE       qs36f.dvinva A1&#xA;SET                (A1.dvretl, A1.dvwhol, A1.dvothe) =&#xA;                             (SELECT        RETPRCAFT, WHOPRCAFT, OTHPRCAFT&#xA;                               FROM            QS36F.MASSPRCUPD A2&#xA;                               WHERE        (A1.dvpart = A2.PARTN AND A1.dvlocn = A2.locat AND A2.procdate = CURRENT_DATE ))&#xA;WHERE        EXISTS&#xA;                             (SELECT        1&#xA;                               FROM            QS36F.MASSPRCUPD A3&#xA;                               WHERE        A1.dvpart = A3.PARTN AND A1.dvlocn = A3.locat AND A3.procdate = CURRENT_DATE )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
       </DTS:Executables>
@@ -5619,7 +5895,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:mssge="clr-namespace:Microsoft.SqlServer.Graph.Extended;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:mssge="clr-namespace:Microsoft.SqlServer.Graph.Extended;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
         <NodeLayout
           Size="328,42"
           Id="Package\Calculate from Percent Value save MASSPRCBCK"
@@ -5637,7 +5913,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           TopLeft="179.724206349207,100.059523809524">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
+              StartConnector="{x:Null}"
               EndConnector="0,69.9404761904761"
               Start="0,0"
               End="0,62.4404761904761">
@@ -5652,7 +5928,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-25.304453125,25.4155505952381,50.60890625,11.609375"
+              BoundingBox="-25.304453125,25.415550595238,50.60890625,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -5670,7 +5946,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <NodeLayout
           Size="271,42"
           Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)"
-          TopLeft="34.25,455.25" />
+          TopLeft="35.25,455.25" />
         <NodeLayout
           Size="170,42"
           Id="Package\Prepare processing table\Execute SQL Task"
@@ -5678,37 +5954,37 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <NodeLayout
           Size="260,42"
           Id="Package\Prepare processing table\Get Row Amount in MASSPRCBCK2"
-          TopLeft="42.5,264" />
+          TopLeft="42.5,263" />
         <EdgeLayout
           Id="Package\Prepare processing table.PrecedenceConstraints[Constraint]"
-          TopLeft="173.5,306">
+          TopLeft="173.5,305">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59"
+              StartConnector="{x:Null}"
+              EndConnector="0,60"
               Start="0,0"
-              End="0,51.5">
+              End="0,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,51.5" />
+                    End="0,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-8,17.75,16,16"
+              BoundingBox="-8,18.25,16,16"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Prepare processing table.PrecedenceConstraints[Constraint 1]"
-          TopLeft="172.125,407">
+          TopLeft="172.625,407">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
+              StartConnector="{x:Null}"
               EndConnector="0,48.25"
               Start="0,0"
               End="0,40.75">
@@ -5728,7 +6004,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <AnnotationLayout
           Text="1. Si el backup esta correcto, elimino una tabla de procesamiento de MASS y calculo el nuevo valor de After en base a las condiciones:&#xA;  a. Perc &lt; 0&#xA;  b. Perc &gt; 0 &amp;&amp; Perc &lt; 2&#xA;  c. Perc == 0 &amp;&amp; categorie before &lt;&gt; 0"
           ParentId="67dbba83-9a5c-475b-9908-449db2911873"
-          FontInfo="{assembly:Null}"
+          FontInfo="{x:Null}"
           Size="251,136"
           Id="43b3d20b-e4e7-46b7-9029-ab59e3f4e813"
           TopLeft="5.5,5.5" />
@@ -5769,15 +6045,15 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           TopLeft="133.125,232.75">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,52.4999999999999"
+              StartConnector="{x:Null}"
+              EndConnector="0,52.5"
               Start="0,0"
-              End="0,44.9999999999999">
+              End="0,45">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,44.9999999999999" />
+                    End="0,45" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -5789,7 +6065,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <AnnotationLayout
           Text="Insert changes in Log Dvinva for before and after values."
           ParentId="ea82523b-c130-432f-b503-6721ae48ff93"
-          FontInfo="{assembly:Null}"
+          FontInfo="{x:Null}"
           Size="218,56"
           Id="2244b124-5c5f-4726-997f-983794a9d558"
           TopLeft="5.5,5.5" />
@@ -5824,16 +6100,16 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="264,113"
-          Size="264,156"
+          PanelSize="264,131"
+          Size="264,174"
           Id="Package\Update process for all categories"
-          TopLeft="1697.16666666667,426.25" />
+          TopLeft="1696.16666666667,425.25" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="1192.69444444445,504.430555555556">
+          TopLeft="1192.69444444445,504.430555555555">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
+              StartConnector="{x:Null}"
               EndConnector="70.805555555555,0"
               Start="0,0"
               End="63.305555555555,0">
@@ -5852,25 +6128,25 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="1625.5,505">
+          TopLeft="1625.5,504.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="71.6666666666699,0"
+              StartConnector="{x:Null}"
+              EndConnector="70.6666666666699,0"
               Start="0,0"
-              End="64.1666666666699,0">
+              End="63.1666666666699,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="64.1666666666699,0" />
+                    End="63.1666666666699,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="6.77888020833496,5,50.60890625,11.609375"
+              BoundingBox="6.27888020833496,5,50.60890625,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -5879,7 +6155,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           TopLeft="637.847222222221,240.821428571429">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
+              StartConnector="{x:Null}"
               EndConnector="0,44.9563492063494"
               Start="0,0"
               End="0,37.4563492063494">
@@ -5901,7 +6177,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           TopLeft="638.619047619047,327.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
+              StartConnector="{x:Null}"
               EndConnector="0,42.805555555555"
               Start="0,0"
               End="0,35.305555555555">
@@ -5923,7 +6199,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           TopLeft="640.166666666667,412.583333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
+              StartConnector="{x:Null}"
               EndConnector="0,63.1388888888901"
               Start="0,0"
               End="0,55.6388888888901">
@@ -5945,7 +6221,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           TopLeft="713.611111111111,499.916666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
+              StartConnector="{x:Null}"
               EndConnector="137.083333333334,0"
               Start="0,0"
               End="129.583333333334,0">
@@ -5966,18 +6242,18 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
-          TopLeft="1961.16666666667,502.125">
+          TopLeft="1960.16666666667,501.625">
           <EdgeLayout.Curve>
             <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="81.9603174603101,0"
+              StartConnector="{x:Null}"
+              EndConnector="82.9603174603101,0"
               Start="0,0"
-              End="74.4603174603101,0">
+              End="75.4603174603101,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="74.4603174603101,0" />
+                    End="75.4603174603101,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -6023,7 +6299,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
     design-time-name="Package\Calculate from Percent Value save MASSPRCBCK">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="180,42"
           Id="Package\Calculate from Percent Value save MASSPRCBCK\DB2 MASSPRCBCK"
@@ -6055,7 +6331,9 @@ WHERE        (DVRETL &lt;&gt; 0 OR
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-8,17.75,16,16"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -6077,7 +6355,9 @@ WHERE        (DVRETL &lt;&gt; 0 OR
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-8,33.75,16,16"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6103,7 +6383,7 @@ WHERE        (DVRETL &lt;&gt; 0 OR
     design-time-name="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="164,42"
           Id="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\Excel Destination"
@@ -6111,29 +6391,27 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <NodeLayout
           Size="181,42"
           Id="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel\DB2 MASSPRCUPD"
-          TopLeft="129,30" />
+          TopLeft="130,31" />
         <EdgeLayout
           Id="Package\Create Backup Documents\Get Data from MASSPRCUPD to excel.Paths[ADO NET Source Output]"
-          TopLeft="216.25,72">
+          TopLeft="216.75,73">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{x:Null}"
-              EndConnector="0,65"
+              EndConnector="0,64"
               Start="0,0"
-              End="0,57.5">
+              End="0,56.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,57.5" />
+                    End="0,56.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-8,20.75,16,16"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -6172,10 +6450,10 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <NodeLayout
           Size="144,42"
           Id="Package\Initial Save from DVINVA to MASSPRCUPD\DB2 DVINVA"
-          TopLeft="178,59" />
+          TopLeft="177,59" />
         <EdgeLayout
           Id="Package\Initial Save from DVINVA to MASSPRCUPD.Paths[ADO NET Source Output]"
-          TopLeft="249.25,101">
+          TopLeft="248.75,101">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{x:Null}"
@@ -6218,11 +6496,11 @@ WHERE        (DVRETL &lt;&gt; 0 OR
     design-time-name="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="181,42"
           Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\DB2 MASSPRCUPD"
-          TopLeft="331,480" />
+          TopLeft="327.25,573.75" />
         <NodeLayout
           Size="169,42"
           Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXPERCENTAJE"
@@ -6238,49 +6516,29 @@ WHERE        (DVRETL &lt;&gt; 0 OR
         <NodeLayout
           Size="168,42"
           Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\FIXAFTERVALUE"
-          TopLeft="335,275" />
-        <EdgeLayout
-          Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2).Paths[Derived Column Output2]"
-          TopLeft="420.5,406">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{x:Null}"
-              EndConnector="0,74"
-              Start="0,0"
-              End="0,66.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,66.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          TopLeft="335,277" />
         <EdgeLayout
           Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2).Paths[Derived Column Output1]"
-          TopLeft="419.25,317">
+          TopLeft="419.25,319">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{x:Null}"
-              EndConnector="0,47"
+              EndConnector="0,45"
               Start="0,0"
-              End="0,39.5">
+              End="0,37.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,39.5" />
+                    End="0,37.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-8,10.75,16,16"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -6289,20 +6547,22 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{x:Null}"
-              EndConnector="0,63"
+              EndConnector="0,65"
               Start="0,0"
-              End="0,55.5">
+              End="0,57.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,55.5" />
+                    End="0,57.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-8,20.75,16,16"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -6325,6 +6585,56 @@ WHERE        (DVRETL &lt;&gt; 0 OR
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="218,42"
+          Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2)\ROUNDTWOVALUESAFER"
+          TopLeft="312.75,463.25" />
+        <EdgeLayout
+          Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2).Paths[Derived Column Output2]"
+          TopLeft="420.625,406">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{x:Null}"
+              EndConnector="0,57.25"
+              Start="0,0"
+              End="0,49.75">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,49.75" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Prepare processing table\AddCalculatedPercValueToMassive (2).Paths[Derived Column Output3]"
+          TopLeft="419.75,505.25">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{x:Null}"
+              EndConnector="0,68.5"
+              Start="0,0"
+              End="0,61">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,61" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-8,22.5,16,16"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
