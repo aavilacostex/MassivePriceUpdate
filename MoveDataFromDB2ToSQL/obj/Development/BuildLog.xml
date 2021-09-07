@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>MoveDataFromDB2ToSQL</Name>
-    <LastWriteTime>2021-09-05T00:32:18.6088222Z</LastWriteTime>
+    <LastWriteTime>2021-09-05T03:56:33.4996971Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Package.dtsx</Name>
-      <LastWriteTime>2021-09-05T00:32:16.1204068Z</LastWriteTime>
+      <LastWriteTime>2021-09-05T04:25:10.3871403Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

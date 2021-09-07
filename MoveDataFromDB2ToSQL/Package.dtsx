@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="137"
-  DTS:VersionGUID="{1A170E6F-39D2-4B2F-AA71-0F913E2E70F6}">
+  DTS:VersionBuild="152"
+  DTS:VersionGUID="{F83CEB49-42D9-4689-A543-54D911D15F35}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAABBxs2C7pCuxzPfv3ydbPRfAAAAAASAAACgAAAAEAAAAL+1y8j4laaxOypzMp1f1NsQAAAAm7xvlDft3bA4SVR6Co9x3RQAAAAMYd27nZTBovsq+8UIKH6tonuOkA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAA5YeU8YfCW14f3vdByEvLpAAAAAASAAACgAAAAEAAAAMAQsazVgimlFy9o0MxGItsQAAAAjdZfvGdTc8ZW/B1dywaNkBQAAAC2XcLVavGsOgGEulWgoNHxYyU58g</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -42,7 +42,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAACNt/7KgYi0miOK/ALwTOotAAAAAASAAACgAAAAEAAAABhNLUtq8zQ7VkIhTpuux0QQAAAAUeDZnNzwAoq8cZBvDOnP9hQAAAAnkH0gdBvhRjpjtuHrNu77Zh8xCg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAC+lJsZs2TG434Mviy8+n+AAAAAASAAACgAAAAEAAAADOIDrBR8MqWO3BUnpnNhrgQAAAABqJCRnXI+t+wVAE7Uw1bLBQAAACswJV2JT7VGrgmnoCSC90fFPQpDw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAVpywDj5pI0macKdjubB6oAAAAAASAAACgAAAAEAAAAAMFUuVubQqHg414+lSpqycQAAAAnNh8EFqkzSPw5NNriEpe7BQAAADWPRJ8iL3XQyXwrsHl3iIroAygiw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAA5lu9dRuuIgC+d+Lq1WX7cAAAAAASAAACgAAAAEAAAAPvoFP3gAK9+61MyYbsLQfQQAAAAvnTSj87QuJeLyPai6/lFnBQAAADQoyBt8PH5Aj1zzXuvsCnse+z5oQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -70,12 +70,7 @@
         <DTS:ConnectionManager
           DTS:ConnectRetryCount="1"
           DTS:ConnectRetryInterval="5"
-          DTS:ConnectionString="Data Source=costexm15;User ID=intranet;Initial Catalog=COSTEX1;Provider=IBMDA400.DataSource.1;Persist Security Info=True;">
-          <DTS:Password
-            DTS:Name="Password"
-            Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAB95kezPbOCn0AsTa57tYMsAAAAAASAAACgAAAAEAAAANyGddSyW96hwivUmyo5AQwQAAAA3VQrFk4LJc3S216NJkSgpBQAAADqLUr25dw411ycTG2+Eu1l1og/jQ</DTS:Password>
-        </DTS:ConnectionManager>
+          DTS:ConnectionString="Data Source=costexm15;User ID=intranet;Initial Catalog=COSTEX1;Provider=IBMDA400.DataSource.1;Persist Security Info=True;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -91,7 +86,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAAKORM8UOrR+nsd6xuUFgDJAAAAAASAAACgAAAAEAAAAMLlmKr8EWBfEp+/q5acSUUQAAAAVipz9LDnvRQRd/C/BBeIgRQAAAA7YgQG42192pmm+NMgpEZQ1eO8Fw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0uno0lRj/0+nAO9sFZxM3gAAAAAIAAAARABUAFMAAAADZgAAwAAAABAAAAARDVWaJWxqmjopqTizRgzuAAAAAASAAACgAAAAEAAAAHZtiv9ie4+9Sf6D/+Yhzd0QAAAArzh0kzbm+AFGaWv8d0FJLBQAAAD0KghS57DiHaQRBA/zZbhx58WzVQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -215,6 +210,18 @@
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[svr400.intranet]"
+      DTS:CreationName="OLEDB"
+      DTS:DTSID="{6407A46C-092F-4AD3-8BA5-625A13902F81}"
+      DTS:ObjectName="svr400.intranet">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:ConnectRetryCount="1"
+          DTS:ConnectRetryInterval="5"
+          DTS:ConnectionString="Data Source=svr400;User ID=intranet;Initial Catalog=COSTEX1;Provider=IBMDA400.DataSource.1;Persist Security Info=True;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
@@ -4837,7 +4844,7 @@ WHERE        (procdate = CURRENT_DATE)</property>
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
-          SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
+          SQLTask:Connection="{6407A46C-092F-4AD3-8BA5-625A13902F81}"
           SQLTask:SqlStatementSource="SELECT        retvalue, wholvalue, othvalue&#xA;FROM            qs36f.MASSPRCQUT&#xA;WHERE        procdate = CURRENT DATE "
           SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
           <SQLTask:ResultBinding
@@ -4877,8 +4884,8 @@ WHERE        (procdate = CURRENT_DATE)</property>
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
-              SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
-              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV (LGUSER,LGDATE,LGTIME,LGPROG,LGTRAN,LGWS,LVPART,LVLOCN,LVRETL,LVWHOL,LVOTHE) &#xA;(select 'SYSTEM',210904,235000,'ACTDVNR','Aft','MASSIVE', PARTN, LOCAT,RETPRCAFT,WHOPRCAFT,OTHPRCAFT from QS36F.MASSPRCUPD where procdate = current_date )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:Connection="{6407A46C-092F-4AD3-8BA5-625A13902F81}"
+              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV (LGUSER,LGDATE,LGTIME,LGPROG,LGTRAN,LGWS,LVPART,LVLOCN,LVRETL,LVWHOL,LVOTHE) &#xA;(select 'SYSTEM',210904,235000,'ACTDVNR','Aft','MASSIVE', PARTN, LOCAT,RETPRCAFT,WHOPRCAFT,OTHPRCAFT from QS36F.MASSPRCUPD where procdate = current_date - 1 Days )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
@@ -4895,8 +4902,8 @@ WHERE        (procdate = CURRENT_DATE)</property>
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
-              SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
-              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV&#xA;                         (LGUSER, LGDATE, LGTIME, LGPROG, LGTRAN, LGWS, LVPART, LVLOCN, LVRETL, LVWHOL, LVOTHE) (SELECT        'SYSTEM', 210904, 235000, 'ACTDVNR', 'Bef', 'MASSIVE', PARTN, LOCAT, RETPRCBEF, WHOPRCBEF, &#xA;                                                                                                                                                                                                                                                                                   OTHPRCBEF&#xA;                                                                                                                                                                                                                                                         FROM            QS36F.MASSPRCUPD where procdate = current_date )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:Connection="{6407A46C-092F-4AD3-8BA5-625A13902F81}"
+              SQLTask:SqlStatementSource="INSERT INTO QS36F.LOGDVINV&#xA;                         (LGUSER, LGDATE, LGTIME, LGPROG, LGTRAN, LGWS, LVPART, LVLOCN, LVRETL, LVWHOL, LVOTHE) (SELECT        'SYSTEM', 210904, 235000, 'ACTDVNR', 'Bef', 'MASSIVE', PARTN, LOCAT, RETPRCBEF, WHOPRCBEF, &#xA;                                                                                                                                                                                                                                                                                   OTHPRCBEF&#xA;                                                                                                                                                                                                                                                         FROM            QS36F.MASSPRCUPD where procdate = current_date - 1 Days )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
       </DTS:Executables>
@@ -5817,8 +5824,8 @@ WHERE        (procdate = CURRENT_DATE)</property>
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
-              SQLTask:Connection="{B7D43025-433D-44A9-9708-B222E3D8FD46}"
-              SQLTask:SqlStatementSource="UPDATE       qs36f.dvinva A1&#xA;SET                (A1.dvretl, A1.dvwhol, A1.dvothe) =&#xA;                             (SELECT        RETPRCAFT, WHOPRCAFT, OTHPRCAFT&#xA;                               FROM            QS36F.MASSPRCUPD A2&#xA;                               WHERE        (A1.dvpart = A2.PARTN AND A1.dvlocn = A2.locat AND A2.procdate = CURRENT_DATE ))&#xA;WHERE        EXISTS&#xA;                             (SELECT        1&#xA;                               FROM            QS36F.MASSPRCUPD A3&#xA;                               WHERE        A1.dvpart = A3.PARTN AND A1.dvlocn = A3.locat AND A3.procdate = CURRENT_DATE )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+              SQLTask:Connection="{6407A46C-092F-4AD3-8BA5-625A13902F81}"
+              SQLTask:SqlStatementSource="UPDATE       qs36f.dvinva A1&#xA;SET                (A1.dvretl, A1.dvwhol, A1.dvothe) =&#xA;                             (SELECT        RETPRCAFT, WHOPRCAFT, OTHPRCAFT&#xA;                               FROM            QS36F.MASSPRCUPD A2&#xA;                               WHERE        (A1.dvpart = A2.PARTN AND A1.dvlocn = A2.locat AND A2.procdate = CURRENT_DATE - 1 Days ))&#xA;WHERE        EXISTS&#xA;                             (SELECT        1&#xA;                               FROM            QS36F.MASSPRCUPD A3&#xA;                               WHERE        A1.dvpart = A3.PARTN AND A1.dvlocn = A3.locat AND A3.procdate = CURRENT_DATE - 1 Days )" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
       </DTS:Executables>
@@ -6088,7 +6095,7 @@ WHERE        (procdate = CURRENT_DATE)</property>
           PanelSize="266,382"
           Size="266,425"
           Id="Package\Sequence Container"
-          TopLeft="2043.12698412698,287.5" />
+          TopLeft="2046.12698412698,295.5" />
         <NodeLayout
           Size="149,42"
           Id="Package\SQL BACKUP"
@@ -6242,18 +6249,18 @@ WHERE        (procdate = CURRENT_DATE)</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
-          TopLeft="1960.16666666667,501.625">
+          TopLeft="1960.16666666667,510.125">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{x:Null}"
-              EndConnector="82.9603174603101,0"
+              EndConnector="85.9603174603101,0"
               Start="0,0"
-              End="75.4603174603101,0">
+              End="78.4603174603101,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="75.4603174603101,0" />
+                    End="78.4603174603101,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
